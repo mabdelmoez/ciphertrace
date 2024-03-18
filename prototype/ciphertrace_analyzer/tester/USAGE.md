@@ -1,0 +1,1 @@
+python tester/celementfind_test.py --testdata __testdata__/aes128/test_celementfind_records --celement scheduling --moduledir analyzer

@@ -5,7 +5,7 @@
 # PREREQUISITEs
 1. PANDA (Note: we use it in ASID mode)
 2. python 2.7.15+ (if 3.x, change import ConfigParser as configparser, and maybe a couple of iteritems() to items())
-3. pip install ConfigParser, numpy, py2neo, ipython==5.8.0
+3. pip install ConfigParser, numpy, py2neo, ipython==5.8.0, enum34
 4. Neo4J to be installed, v3.5.14 was used. Simply, install Neo4J Desktop on Windows, or for Ubuntu follow: https://www.techunits.com/topics/setup-guides/setup-guide-for-neo4j-graph-database-ubuntu-18-04-lts/. And add the connection details in the main.cfg
 5. You need to prepare the database: if it is a fresh install, change password of the neo4j user via this command "curl -H "Content-Type: application/json" -XPOST -d '{"password":"mypassword"}' -u neo4j:neo4j http://localhost:7474/user/neo4j/password".
 
@@ -19,7 +19,7 @@ The main module handles the config, as well as the following:
 2. Analyzer: Analyses the func_stats file by caller.
 
 ## Extra
-1. Tester: Tests the primary piece of the analyzer, the primitive finder algorithm.
+1. Tester: Tests the main piece of the analyzer, the crypto element finder algorithm.
 2. Visualizer: Visualizes the graph file of the analyzer. 
 3. Verifier: Verifies the tap points, as per to searchterms, in light, heavy and default modes.
 Note: Vsiualizer can be executed on Windows (Bash)
@@ -39,7 +39,7 @@ Note: We use IDA Free to export the symbols (function names), and that marks the
 0. Go to main directory of CipherTrace analyzer, where the main.py resides. In other words, make your 'pwd' the "ciphertrace_analyzer"
 1. Identify the ASID that you want to examine, e.g., via running the 'asidstory' plugin.
 2. Set the ASID, in its property in the main.cfg, property name is "ASID"
-3. Revise the commands section the main.cfg, make the commands point to where your analysis files are. Replace "__testdata__/waes128enc" with your location, of course with the respective file location.
+3. Revise the commands section the main.cfg, make the commands point to where your analysis files are. Replace "__testdata__/aes128" with your location, of course with the respective file location.
 
 # Usage
 Run the ./main.py, or any of the .py file of a module, they are standalone.

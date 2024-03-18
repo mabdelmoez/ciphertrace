@@ -1,0 +1,153 @@
+TopLevelExceptionFilter	.text	0000000000401000	00000192	0000001C	00000004	R	.	.	.	.	T	.
+sub_4011A0	.text	00000000004011A0	000000EC	0000001C	00000000	.	.	.	.	B	.	.
+__mingw32_init_mainargs	.text	0000000000401290	0000003F	0000003C	00000000	R	.	.	.	.	.	.
+_mainCRTStartup	.text	00000000004012D0	00000015	0000001C	00000000	.	.	.	.	.	.	.
+_WinMainCRTStartup	.text	00000000004012F0	00000015	0000001C	00000000	.	.	.	.	.	.	.
+_atexit	.text	0000000000401310	00000006	00000000	00000000	R	.	.	.	.	T	.
+__onexit	.text	0000000000401320	00000006	00000000	00000000	R	.	.	.	.	T	.
+___gcc_register_frame	.text	0000000000401330	000000A1	0000001C	00000000	R	.	.	.	B	.	.
+___gcc_deregister_frame	.text	00000000004013E0	0000002E	0000001C	00000000	R	.	.	.	B	T	.
+permute(_serpent_blk_t *,_serpent_blk_t *,bool)	.text	0000000000401410	00000159	00000030	0000000C	R	.	.	.	B	T	.
+subbytes(_serpent_blk_t *,uint,bool)	.text	0000000000401569	000004AF	00000128	0000000C	R	.	.	.	B	T	.
+whiten(_serpent_blk_t *,serpent_key_t *,int)	.text	0000000000401A18	0000004C	00000018	0000000C	R	.	.	.	B	T	.
+linear_trans(_serpent_blk_t *,bool)	.text	0000000000401A64	00000166	00000018	00000008	R	.	.	.	B	T	.
+gen_w(uint *,uint)	.text	0000000000401BCA	0000003C	00000014	00000008	R	.	.	.	B	T	.
+key_setup(serpent_key_t *,void *)	.text	0000000000401C06	000000E8	0000004C	00000008	R	.	.	.	B	T	.
+hex2bin(void *,char const*)	.text	0000000000401CEE	000000B3	0000002C	00000008	R	.	.	.	B	T	.
+dump_hex(uchar *,int)	.text	0000000000401DA1	0000003C	0000002C	00000008	R	.	.	.	B	T	.
+dump_key(uchar *,int)	.text	0000000000401DDD	00000129	0000011C	00000008	R	.	.	.	B	T	.
+dump_str(uchar *,int)	.text	0000000000401F06	00000034	0000002C	00000008	R	.	.	.	B	T	.
+encrypt(_serpent_blk_t *,serpent_key_t *)	.text	0000000000401F3A	00000082	00000024	00000008	R	.	.	.	B	T	.
+decrypt(_serpent_blk_t *,serpent_key_t *)	.text	0000000000401FBC	00000082	00000024	00000008	R	.	.	.	B	T	.
+generate(uchar *)	.text	000000000040203E	00000056	0000002C	00000004	R	.	.	.	B	T	.
+_main	.text	0000000000402094	000004F5	00000404	00000008	R	.	.	.	B	T	.
+___tcf_0	.text	0000000000402589	00000012	0000000C	00000000	R	.	.	S	B	T	.
+__static_initialization_and_destruction_0(int,int)	.text	000000000040259B	0000002E	0000001C	00000008	R	.	.	S	B	T	.
+__GLOBAL__sub_I__Z7permuteP14_serpent_blk_tS0_b	.text	00000000004025C9	0000001C	0000001C	00000000	R	.	.	S	B	T	.
+___gxx_personality_v0	.text	00000000004025E8	00000006			R	.	.	.	.	.	.
+std::operator<<<char,std::char_traits<char>,std::allocator<char>>(std::basic_ostream<char,std::char_traits<char>> &,std::__cxx11::basic_string<char,std::char_traits<char>,std::allocator<char>> const&)	.text	00000000004025F0	00000006			R	.	.	.	.	.	.
+std::operator<<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,std::_Setfill<char>)	.text	00000000004025F8	00000006			R	.	.	.	.	.	.
+std::operator<<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,std::_Setw)	.text	0000000000402600	00000006			R	.	.	.	.	.	.
+std::operator<<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char const*)	.text	0000000000402608	00000006			R	.	.	.	.	.	.
+std::endl<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &)	.text	0000000000402610	00000006			R	.	.	.	.	.	.
+std::ios_base::Init::~Init()	.text	0000000000402618	00000006			R	.	.	.	.	T	.
+std::ios_base::Init::Init(void)	.text	0000000000402620	00000006			R	.	.	.	.	T	.
+std::__cxx11::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>::~basic_stringstream()	.text	0000000000402628	00000006			R	.	.	.	.	.	.
+std::__cxx11::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>::basic_stringstream(std::_Ios_Openmode)	.text	0000000000402630	00000006			R	.	.	.	.	.	.
+std::__cxx11::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator[](uint)	.text	0000000000402638	00000006			R	.	.	.	.	.	.
+std::__cxx11::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator=(std::__cxx11::basic_string<char,std::char_traits<char>,std::allocator<char>>&&)	.text	0000000000402640	00000006			R	.	.	.	.	.	.
+std::__cxx11::basic_string<char,std::char_traits<char>,std::allocator<char>>::~basic_string()	.text	0000000000402648	00000006			R	.	.	.	.	.	.
+std::__cxx11::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(void)	.text	0000000000402650	00000006			R	.	.	.	.	.	.
+std::__cxx11::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(char const*,std::allocator<char> const&)	.text	0000000000402658	00000006			R	.	.	.	.	.	.
+std::basic_ofstream<char,std::char_traits<char>>::~basic_ofstream()	.text	0000000000402660	00000006			R	.	.	.	.	.	.
+std::basic_ofstream<char,std::char_traits<char>>::basic_ofstream(void)	.text	0000000000402668	00000006			R	.	.	.	.	.	.
+std::basic_ofstream<char,std::char_traits<char>>::is_open(void)	.text	0000000000402670	00000006			R	.	.	.	.	.	.
+std::basic_ofstream<char,std::char_traits<char>>::close(void)	.text	0000000000402678	00000006			R	.	.	.	.	.	.
+std::basic_ofstream<char,std::char_traits<char>>::open(char const*,std::_Ios_Openmode)	.text	0000000000402680	00000006			R	.	.	.	.	.	.
+std::ostream::operator<<(int)	.text	0000000000402688	00000006			R	.	.	.	.	.	.
+std::ostream::operator<<(std::ios_base & (*)(std::ios_base &))	.text	0000000000402690	00000006			R	.	.	.	.	.	.
+std::ostream::operator<<(std::ostream & (*)(std::ostream &))	.text	0000000000402698	00000006			R	.	.	.	.	.	.
+std::allocator<char>::~allocator()	.text	00000000004026A0	00000006			R	.	.	.	.	.	.
+std::allocator<char>::allocator(void)	.text	00000000004026A8	00000006			R	.	.	.	.	.	.
+std::__cxx11::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>::str(void)	.text	00000000004026B0	00000006			R	.	.	.	.	.	.
+std::__cxx11::basic_string<char,std::char_traits<char>,std::allocator<char>>::c_str(void)	.text	00000000004026B8	00000006			R	.	.	.	.	.	.
+__setargv	.text	00000000004026C0	00000366	0000005C	00000000	R	.	.	.	B	.	.
+___cpu_features_init	.text	0000000000402A30	00000107	00000208	00000000	R	.	.	.	.	.	.
+___do_global_dtors	.text	0000000000402B40	00000031	00000000	00000000	R	.	.	.	.	T	.
+___do_global_ctors	.text	0000000000402B80	00000046	0000001C	00000000	R	.	.	.	.	.	.
+___main	.text	0000000000402BD0	0000001C	00000000	00000000	R	.	.	.	.	.	.
+TlsCallback_1	.text	0000000000402BF0	00000043	0000001C	0000000C	R	.	.	.	.	.	.
+__dyn_tls_init(x,x,x)	.text	0000000000402C40	0000009A	0000001C	0000000C	R	.	.	.	.	.	.
+___tlregdtor	.text	0000000000402CE0	00000003	00000000	00000000	R	.	.	.	.	.	.
+sub_402CF0	.text	0000000000402CF0	00000060	0000001C	00000000	R	.	.	.	.	.	.
+____w64_mingwthr_add_key_dtor	.text	0000000000402D50	00000082	0000001C	00000008	R	.	.	.	.	.	.
+____w64_mingwthr_remove_key_dtor	.text	0000000000402DE0	0000009B	0000001C	00000004	R	.	.	.	.	.	.
+___mingw_TLScallback	.text	0000000000402E80	000000B1	0000001C	00000008	R	.	.	.	.	.	.
+sub_402F40	.text	0000000000402F40	0000004A	0000001C	00000005	.	.	.	.	.	T	.
+sub_402F90	.text	0000000000402F90	000000EC	0000004C	00000000	R	.	.	.	.	.	.
+__pei386_runtime_relocator	.text	0000000000403080	000001DA	0000003C	00000000	R	.	.	.	.	.	.
+___register_frame_info	.text	0000000000403260	00000006			R	.	.	.	.	.	.
+___deregister_frame_info	.text	0000000000403268	00000006			R	.	.	.	.	.	.
+__Unwind_Resume	.text	0000000000403270	00000006			R	.	.	.	.	.	.
+___chkstk_ms	.text	0000000000403278	0000002A	00000000	00000001	R	.	.	.	.	.	.
+_fesetenv	.text	00000000004032B0	00000077	0000001C	00000004	R	.	.	.	.	.	.
+sub_403330	.text	0000000000403330	00000329	0000004C	00000000	R	.	.	.	.	.	.
+sub_403660	.text	0000000000403660	0000020F	0000003C	00000000	R	.	.	.	.	.	.
+sub_403870	.text	0000000000403870	0000008E	00000008	00000000	R	.	.	.	.	.	.
+sub_403900	.text	0000000000403900	0000004F	0000001C	00000000	R	.	.	.	.	.	.
+sub_403950	.text	0000000000403950	0000005C	0000001C	00000000	R	.	.	.	.	.	.
+sub_4039B0	.text	00000000004039B0	00000049	0000001C	00000000	R	.	.	.	.	.	.
+sub_403A00	.text	0000000000403A00	00000878	0000007C	00000004	R	.	.	.	B	.	.
+___mingw_glob	.text	0000000000404280	000000D7	0000003C	00000010	R	.	.	.	B	T	.
+___mingw_globfree	.text	0000000000404360	00000057	0000001C	00000004	R	.	.	.	.	T	.
+___mingw_dirname	.text	00000000004043C0	000003E5	0000003C	00000004	R	.	.	.	B	T	.
+sub_4047B0	.text	00000000004047B0	000000D3	0000015C	00000000	R	.	.	.	.	.	.
+sub_404890	.text	0000000000404890	000000A2	0000015C	00000000	R	.	.	.	.	.	.
+___mingw_opendir	.text	0000000000404940	000001F1	0000013C	00000004	R	.	.	.	.	T	.
+___mingw_readdir	.text	0000000000404B40	0000004F	0000000C	00000004	R	.	.	.	.	.	.
+___mingw_closedir	.text	0000000000404B90	00000042	0000001C	00000004	R	.	.	.	.	T	.
+___mingw_rewinddir	.text	0000000000404BE0	00000058	0000001C	00000004	R	.	.	.	.	.	.
+___mingw_telldir	.text	0000000000404C40	00000027	0000000C	00000004	R	.	.	.	.	.	.
+___mingw_seekdir	.text	0000000000404C70	00000071	0000001C	00000008	R	.	.	.	.	.	.
+_wcstombs	.text	0000000000404CF0	00000006	00000000	00000000	R	.	.	.	.	T	.
+_vfprintf	.text	0000000000404CF8	00000006	00000000	00000000	R	.	.	.	.	T	.
+_tolower	.text	0000000000404D00	00000006	00000000	00000000	R	.	.	.	.	T	.
+_time	.text	0000000000404D08	00000006	00000000	00000000	R	.	.	.	.	T	.
+_strlen	.text	0000000000404D10	00000006	00000000	00000000	R	.	.	.	.	T	.
+_strcoll	.text	0000000000404D18	00000006	00000000	00000000	R	.	.	.	.	T	.
+_sscanf	.text	0000000000404D20	00000006	00000000	00000000	R	.	.	.	.	T	.
+_srand	.text	0000000000404D28	00000006	00000000	00000000	R	.	.	.	.	T	.
+_signal	.text	0000000000404D30	00000006	00000000	00000000	R	.	.	.	.	T	.
+_setlocale	.text	0000000000404D38	00000006	00000000	00000000	R	.	.	.	.	T	.
+_realloc	.text	0000000000404D40	00000006	00000000	00000000	R	.	.	.	.	T	.
+_rand	.text	0000000000404D48	00000006	00000000	00000000	R	.	.	.	.	T	.
+_putchar	.text	0000000000404D50	00000006	00000000	00000000	R	.	.	.	.	T	.
+_printf	.text	0000000000404D58	00000006	00000000	00000000	R	.	.	.	.	T	.
+_memmove	.text	0000000000404D60	00000006	00000000	00000000	R	.	.	.	.	T	.
+_memcpy	.text	0000000000404D68	00000006	00000000	00000000	R	.	.	.	.	T	.
+_mbstowcs	.text	0000000000404D70	00000006	00000000	00000000	R	.	.	.	.	T	.
+_malloc	.text	0000000000404D78	00000006	00000000	00000000	R	.	.	.	.	T	.
+_isxdigit	.text	0000000000404D80	00000006	00000000	00000000	R	.	.	.	.	T	.
+_fwrite	.text	0000000000404D88	00000006	00000000	00000000	R	.	.	.	.	T	.
+_free	.text	0000000000404D90	00000006	00000000	00000000	R	.	.	.	.	T	.
+_calloc	.text	0000000000404D98	00000006	00000000	00000000	R	.	.	.	.	T	.
+_abort	.text	0000000000404DA0	00000006	00000000	00000000	.	.	.	.	.	T	.
+__setmode	.text	0000000000404DA8	00000006	00000000	00000000	R	.	.	.	.	T	.
+__isctype	.text	0000000000404DB0	00000006	00000000	00000000	R	.	.	.	.	T	.
+__fullpath	.text	0000000000404DB8	00000006	00000000	00000000	R	.	.	.	.	T	.
+__errno	.text	0000000000404DC0	00000006			R	.	.	.	.	.	.
+__cexit	.text	0000000000404DC8	00000006	00000000	00000000	R	.	.	.	.	T	.
+___p__fmode	.text	0000000000404DD0	00000006			R	.	.	.	.	.	.
+___p__environ	.text	0000000000404DD8	00000006			R	.	.	.	.	.	.
+___getmainargs	.text	0000000000404DE0	00000006			R	.	.	.	.	.	.
+VirtualQuery(x,x,x)	.text	0000000000404DE8	00000006	00000000	0000000C	R	.	.	.	.	T	.
+VirtualProtect(x,x,x,x)	.text	0000000000404DF0	00000006	00000000	00000010	R	.	.	.	.	T	.
+TlsGetValue(x)	.text	0000000000404DF8	00000006	00000000	00000004	R	.	.	.	.	T	.
+SetUnhandledExceptionFilter(x)	.text	0000000000404E00	00000006	00000000	00000004	R	.	.	.	.	T	.
+LoadLibraryA(x)	.text	0000000000404E08	00000006	00000000	00000004	R	.	.	.	.	T	.
+LeaveCriticalSection(x)	.text	0000000000404E10	00000006	00000000	00000004	R	.	.	.	.	T	.
+InitializeCriticalSection(x)	.text	0000000000404E18	00000006	00000000	00000004	R	.	.	.	.	T	.
+GetProcAddress(x,x)	.text	0000000000404E20	00000006	00000000	00000008	R	.	.	.	.	T	.
+GetModuleHandleA(x)	.text	0000000000404E28	00000006	00000000	00000004	R	.	.	.	.	T	.
+GetLastError()	.text	0000000000404E30	00000006	00000000	00000000	R	.	.	.	.	T	.
+GetCommandLineA()	.text	0000000000404E38	00000006	00000000	00000000	R	.	.	.	.	T	.
+FreeLibrary(x)	.text	0000000000404E40	00000006	00000000	00000004	R	.	.	.	.	T	.
+FindNextFileA(x,x)	.text	0000000000404E48	00000006	00000000	00000008	R	.	.	.	.	T	.
+FindFirstFileA(x,x)	.text	0000000000404E50	00000006	00000000	00000008	R	.	.	.	.	T	.
+FindClose(x)	.text	0000000000404E58	00000006	00000000	00000004	R	.	.	.	.	T	.
+ExitProcess(x)	.text	0000000000404E60	00000006	00000000	00000004	R	.	.	.	.	T	.
+EnterCriticalSection(x)	.text	0000000000404E68	00000006	00000000	00000004	R	.	.	.	.	T	.
+DeleteCriticalSection(x)	.text	0000000000404E70	00000006	00000000	00000004	R	.	.	.	.	T	.
+_stricoll	.text	0000000000404E78	00000006			R	.	.	.	.	.	.
+_strdup	.text	0000000000404E80	00000006	00000000	00000000	R	.	.	.	.	T	.
+std::ios_base::setf(std::_Ios_Fmtflags,std::_Ios_Fmtflags)	.text	0000000000404E88	0000005E	0000003C	00000008	R	.	.	S	B	T	.
+std::hex(std::ios_base &)	.text	0000000000404EE8	00000025	0000001C	00000004	R	.	.	S	B	T	.
+std::setw(int)	.text	0000000000404F10	00000008	00000004	00000004	R	.	.	S	B	T	.
+std::setfill<char>(char)	.text	0000000000404F18	00000012	00000008	00000004	R	.	.	S	B	T	.
+std::operator&=(std::_Ios_Fmtflags &,std::_Ios_Fmtflags)	.text	0000000000404F2C	00000026	0000001C	00000008	R	.	.	S	B	T	.
+std::operator&(std::_Ios_Fmtflags,std::_Ios_Fmtflags)	.text	0000000000404F54	0000000B	00000004	00000008	R	.	.	S	B	T	.
+std::operator~(std::_Ios_Fmtflags)	.text	0000000000404F60	0000000A	00000004	00000004	R	.	.	S	B	T	.
+std::operator|=(std::_Ios_Fmtflags &,std::_Ios_Fmtflags)	.text	0000000000404F6C	00000026	0000001C	00000008	R	.	.	S	B	T	.
+std::operator|(std::_Ios_Fmtflags,std::_Ios_Fmtflags)	.text	0000000000404F94	0000000B	00000004	00000008	R	.	.	S	B	T	.
+std::operator|(std::_Ios_Openmode,std::_Ios_Openmode)	.text	0000000000404FA0	0000000B	00000004	00000008	R	.	.	S	B	T	.
+_register_frame_ctor	.text	0000000000404FB0	00000005	00000000	00000000	R	.	.	.	.	.	.

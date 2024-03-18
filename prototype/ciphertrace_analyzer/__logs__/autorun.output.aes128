@@ -1,0 +1,1242 @@
+Execute analysis or asidstory? Enter 1 for asidstory: Light verifier mode or default: Enter 1 for light: Runing analysis on aes128
+Replay aes128 and ASID 30249000
+pwd:
+/home/osboxes/images/new_recordings/aes128
+Running unigrams func_stats for aes128 and ASID 30249000
+PANDA[core]:initializing unigrams
+PANDA[core]:loading required plugin callstack_instr
+PANDA[core]:initializing callstack_instr
+Initializing plugin unigrams
+callstack_instr:  using asid stack_type
+loading snapshot
+... done.
+opening nondet log for read :	./aes128-rr-nondet.log
+./aes128-rr-nondet.log:   333110297 instrs total.
+aes128:     3331105 (  1.00%) instrs.    0.80 sec.  1.35 GB ram.
+aes128:     6662207 (  2.00%) instrs.    1.66 sec.  1.37 GB ram.
+aes128:     9993332 (  3.00%) instrs.    2.60 sec.  1.38 GB ram.
+aes128:    13324415 (  4.00%) instrs.    3.50 sec.  1.39 GB ram.
+aes128:    16655517 (  5.00%) instrs.    4.28 sec.  1.41 GB ram.
+aes128:    19986626 (  6.00%) instrs.    5.28 sec.  1.44 GB ram.
+aes128:    23317721 (  7.00%) instrs.    6.33 sec.  1.45 GB ram.
+aes128:    26648828 (  8.00%) instrs.    7.38 sec.  1.45 GB ram.
+aes128:    29979930 (  9.00%) instrs.    8.44 sec.  1.48 GB ram.
+aes128:    33311031 ( 10.00%) instrs.    9.58 sec.  1.50 GB ram.
+aes128:    36642134 ( 11.00%) instrs.   10.85 sec.  1.51 GB ram.
+aes128:    39973237 ( 12.00%) instrs.   12.05 sec.  1.52 GB ram.
+aes128:    43304342 ( 13.00%) instrs.   13.00 sec.  1.53 GB ram.
+aes128:    46635443 ( 14.00%) instrs.   13.82 sec.  1.53 GB ram.
+aes128:    49966545 ( 15.00%) instrs.   14.57 sec.  1.53 GB ram.
+aes128:    53297649 ( 16.00%) instrs.   15.40 sec.  1.54 GB ram.
+aes128:    56628752 ( 17.00%) instrs.   16.26 sec.  1.54 GB ram.
+aes128:    59959867 ( 18.00%) instrs.   17.03 sec.  1.54 GB ram.
+aes128:    63290962 ( 19.00%) instrs.   17.64 sec.  1.54 GB ram.
+aes128:    66622067 ( 20.00%) instrs.   18.09 sec.  1.54 GB ram.
+aes128:    69953165 ( 21.00%) instrs.   18.66 sec.  1.54 GB ram.
+aes128:    73284268 ( 22.00%) instrs.   19.64 sec.  1.54 GB ram.
+aes128:    76615370 ( 23.00%) instrs.   20.37 sec.  1.54 GB ram.
+aes128:    79946478 ( 24.00%) instrs.   21.03 sec.  1.54 GB ram.
+aes128:    83277575 ( 25.00%) instrs.   21.89 sec.  1.54 GB ram.
+aes128:    86608678 ( 26.00%) instrs.   22.66 sec.  1.55 GB ram.
+aes128:    89939783 ( 27.00%) instrs.   23.39 sec.  1.55 GB ram.
+aes128:    93270888 ( 28.00%) instrs.   24.26 sec.  1.55 GB ram.
+aes128:    96601995 ( 29.00%) instrs.   25.04 sec.  1.55 GB ram.
+aes128:    99933092 ( 30.00%) instrs.   25.51 sec.  1.55 GB ram.
+aes128:   103264197 ( 31.00%) instrs.   26.10 sec.  1.55 GB ram.
+aes128:   106595296 ( 32.00%) instrs.   26.76 sec.  1.55 GB ram.
+aes128:   109926403 ( 33.00%) instrs.   27.59 sec.  1.55 GB ram.
+aes128:   113257508 ( 34.00%) instrs.   28.43 sec.  1.55 GB ram.
+aes128:   116588609 ( 35.00%) instrs.   29.58 sec.  1.55 GB ram.
+aes128:   119919710 ( 36.00%) instrs.   30.31 sec.  1.55 GB ram.
+aes128:   123250816 ( 37.00%) instrs.   31.18 sec.  1.55 GB ram.
+aes128:   126581913 ( 38.00%) instrs.   32.39 sec.  1.55 GB ram.
+aes128:   129913016 ( 39.00%) instrs.   33.26 sec.  1.55 GB ram.
+aes128:   133244120 ( 40.00%) instrs.   34.30 sec.  1.55 GB ram.
+aes128:   136575228 ( 41.00%) instrs.   34.99 sec.  1.55 GB ram.
+aes128:   139906328 ( 42.00%) instrs.   35.48 sec.  1.55 GB ram.
+aes128:   143237433 ( 43.00%) instrs.   36.15 sec.  1.55 GB ram.
+aes128:   146568531 ( 44.00%) instrs.   37.12 sec.  1.55 GB ram.
+aes128:   149899638 ( 45.00%) instrs.   38.30 sec.  1.55 GB ram.
+aes128:   153230740 ( 46.00%) instrs.   39.35 sec.  1.56 GB ram.
+aes128:   156561841 ( 47.00%) instrs.   40.16 sec.  1.56 GB ram.
+aes128:   159892952 ( 48.00%) instrs.   41.02 sec.  1.56 GB ram.
+aes128:   163224050 ( 49.00%) instrs.   42.10 sec.  1.56 GB ram.
+aes128:   166555149 ( 50.00%) instrs.   42.87 sec.  1.56 GB ram.
+aes128:   169886252 ( 51.00%) instrs.   43.68 sec.  1.56 GB ram.
+aes128:   173217355 ( 52.00%) instrs.   44.48 sec.  1.56 GB ram.
+aes128:   176548458 ( 53.00%) instrs.   45.28 sec.  1.57 GB ram.
+aes128:   179879572 ( 54.00%) instrs.   46.00 sec.  1.57 GB ram.
+aes128:   183210666 ( 55.00%) instrs.   47.02 sec.  1.57 GB ram.
+aes128:   186541769 ( 56.00%) instrs.   47.98 sec.  1.57 GB ram.
+aes128:   189872870 ( 57.00%) instrs.   48.95 sec.  1.58 GB ram.
+aes128:   193203973 ( 58.00%) instrs.   49.84 sec.  1.58 GB ram.
+aes128:   196535077 ( 59.00%) instrs.   51.23 sec.  1.58 GB ram.
+aes128:   199866193 ( 60.00%) instrs.   52.30 sec.  1.58 GB ram.
+aes128:   203197285 ( 61.00%) instrs.   53.07 sec.  1.58 GB ram.
+aes128:   206528386 ( 62.00%) instrs.   54.18 sec.  1.59 GB ram.
+aes128:   209859503 ( 63.00%) instrs.   55.32 sec.  1.61 GB ram.
+aes128:   213190598 ( 64.00%) instrs.   56.19 sec.  1.61 GB ram.
+aes128:   216521699 ( 65.00%) instrs.   56.88 sec.  1.61 GB ram.
+aes128:   219852814 ( 66.00%) instrs.   57.56 sec.  1.61 GB ram.
+aes128:   223183900 ( 67.00%) instrs.   58.42 sec.  1.63 GB ram.
+aes128:   226515002 ( 68.00%) instrs.   59.55 sec.  1.63 GB ram.
+aes128:   229846105 ( 69.00%) instrs.   60.98 sec.  1.66 GB ram.
+aes128:   233177208 ( 70.00%) instrs.   62.14 sec.  1.67 GB ram.
+aes128:   236508315 ( 71.00%) instrs.   63.18 sec.  1.67 GB ram.
+aes128:   239839420 ( 72.00%) instrs.   64.31 sec.  1.68 GB ram.
+aes128:   243170518 ( 73.00%) instrs.   65.67 sec.  1.68 GB ram.
+aes128:   246501628 ( 74.00%) instrs.   66.68 sec.  1.68 GB ram.
+aes128:   249832727 ( 75.00%) instrs.   67.79 sec.  1.72 GB ram.
+aes128:   253163829 ( 76.00%) instrs.   69.18 sec.  1.77 GB ram.
+aes128:   256494934 ( 77.00%) instrs.   70.42 sec.  1.81 GB ram.
+aes128:   259826034 ( 78.00%) instrs.   71.56 sec.  1.81 GB ram.
+aes128:   263157138 ( 79.00%) instrs.   72.35 sec.  1.82 GB ram.
+aes128:   266488247 ( 80.00%) instrs.   73.64 sec.  1.82 GB ram.
+aes128:   269819343 ( 81.00%) instrs.   74.72 sec.  1.82 GB ram.
+aes128:   273150445 ( 82.00%) instrs.   75.81 sec.  1.82 GB ram.
+aes128:   276481556 ( 83.00%) instrs.   77.09 sec.  1.82 GB ram.
+aes128:   279812650 ( 84.00%) instrs.   78.33 sec.  1.82 GB ram.
+aes128:   283143754 ( 85.00%) instrs.   79.41 sec.  1.82 GB ram.
+aes128:   286474856 ( 86.00%) instrs.   80.50 sec.  1.82 GB ram.
+aes128:   289805964 ( 87.00%) instrs.   81.38 sec.  1.82 GB ram.
+aes128:   293137088 ( 88.00%) instrs.   82.05 sec.  1.82 GB ram.
+aes128:   296468184 ( 89.00%) instrs.   82.83 sec.  1.82 GB ram.
+aes128:   299799270 ( 90.00%) instrs.   83.58 sec.  1.83 GB ram.
+aes128:   303130376 ( 91.00%) instrs.   84.74 sec.  1.84 GB ram.
+aes128:   306461489 ( 92.00%) instrs.   85.83 sec.  1.85 GB ram.
+aes128:   309792578 ( 93.00%) instrs.   86.85 sec.  1.85 GB ram.
+aes128:   313123680 ( 94.00%) instrs.   87.80 sec.  1.86 GB ram.
+aes128:   316454795 ( 95.00%) instrs.   88.65 sec.  1.86 GB ram.
+aes128:   319785911 ( 96.00%) instrs.   89.30 sec.  1.86 GB ram.
+aes128:   323116994 ( 97.00%) instrs.   89.84 sec.  1.86 GB ram.
+aes128:   326448112 ( 98.00%) instrs.   90.48 sec.  1.86 GB ram.
+aes128:   329779198 ( 99.00%) instrs.   91.46 sec.  1.86 GB ram.
+./aes128-rr-nondet.log:  log is empty.
+./aes128-rr-nondet.log:  log is empty.
+Replay completed successfully. 1
+Time taken was: 97 seconds.
+Stats:
+RR_INPUT_1 number = 0, size = 0 bytes
+RR_INPUT_2 number = 0, size = 0 bytes
+RR_INPUT_4 number = 4773, size = 66822 bytes
+RR_INPUT_8 number = 24249, size = 436482 bytes
+RR_INTERRUPT_REQUEST number = 5295, size = 74130 bytes
+RR_EXIT_REQUEST number = 0, size = 0 bytes
+RR_SKIPPED_CALL number = 56, size = 2867 bytes
+RR_END_OF_LOG number = 1, size = 10 bytes
+RR_PENDING_INTERRUPTS number = 0, size = 0 bytes
+RR_EXCEPTION number = 0, size = 0 bytes
+max_queue_len = 309
+Checksum of guest memory: 0x41f99026
+Replay completed successfully 2.
+PANDA[func_stats]:adding argument asids=0x30249000.
+PANDA[func_stats]:adding argument hex=true.
+PANDA[func_stats]:adding argument call_limit=200.
+PANDA[func_stats]:adding argument stack_limit=16.
+PANDA[core]:initializing func_stats
+PANDA[core]:loading required plugin callstack_instr
+PANDA[core]:initializing callstack_instr
+callstack_instr:  using asid stack_type
+Enabling LLVM
+tracking asid 807702528 
+loading snapshot
+... done.
+opening nondet log for read :	./aes128-rr-nondet.log
+./aes128-rr-nondet.log:   333110297 instrs total.
+aes128:     3331105 (  1.00%) instrs.    3.16 sec.  1.48 GB ram.
+aes128:     6662207 (  2.00%) instrs.    5.61 sec.  1.59 GB ram.
+aes128:     9993332 (  3.00%) instrs.    9.96 sec.  1.78 GB ram.
+aes128:    13324415 (  4.00%) instrs.   10.65 sec.  1.78 GB ram.
+aes128:    16655517 (  5.00%) instrs.   15.30 sec.  1.88 GB ram.
+aes128:    19986626 (  6.00%) instrs.   22.35 sec.  2.21 GB ram.
+aes128:    23317721 (  7.00%) instrs.   23.75 sec.  2.21 GB ram.
+aes128:    26648828 (  8.00%) instrs.   24.06 sec.  2.21 GB ram.
+aes128:    29979930 (  9.00%) instrs.   30.98 sec.  2.31 GB ram.
+aes128:    33311031 ( 10.00%) instrs.   36.34 sec.  2.37 GB ram.
+aes128:    36642134 ( 11.00%) instrs.   48.94 sec.  2.40 GB ram.
+aes128:    39973237 ( 12.00%) instrs.   54.06 sec.  2.43 GB ram.
+aes128:    43304342 ( 13.00%) instrs.   59.54 sec.  2.49 GB ram.
+aes128:    46635443 ( 14.00%) instrs.   60.23 sec.  2.49 GB ram.
+aes128:    49966545 ( 15.00%) instrs.   60.92 sec.  2.50 GB ram.
+aes128:    53297649 ( 16.00%) instrs.   61.22 sec.  2.50 GB ram.
+aes128:    56628752 ( 17.00%) instrs.   61.52 sec.  2.50 GB ram.
+aes128:    59959867 ( 18.00%) instrs.   62.02 sec.  2.50 GB ram.
+aes128:    63290962 ( 19.00%) instrs.   62.26 sec.  2.50 GB ram.
+aes128:    66622067 ( 20.00%) instrs.   62.39 sec.  2.50 GB ram.
+aes128:    69953165 ( 21.00%) instrs.   62.58 sec.  2.50 GB ram.
+aes128:    73284268 ( 22.00%) instrs.   62.85 sec.  2.50 GB ram.
+aes128:    76615370 ( 23.00%) instrs.   63.12 sec.  2.50 GB ram.
+aes128:    79946478 ( 24.00%) instrs.   63.37 sec.  2.50 GB ram.
+aes128:    83277575 ( 25.00%) instrs.   64.82 sec.  2.52 GB ram.
+aes128:    86608678 ( 26.00%) instrs.   65.11 sec.  2.52 GB ram.
+aes128:    89939783 ( 27.00%) instrs.   65.36 sec.  2.52 GB ram.
+aes128:    93270888 ( 28.00%) instrs.   65.65 sec.  2.52 GB ram.
+aes128:    96601995 ( 29.00%) instrs.   65.87 sec.  2.52 GB ram.
+aes128:    99933092 ( 30.00%) instrs.   66.00 sec.  2.52 GB ram.
+aes128:   103264197 ( 31.00%) instrs.   66.23 sec.  2.52 GB ram.
+aes128:   106595296 ( 32.00%) instrs.   66.50 sec.  2.52 GB ram.
+aes128:   109926403 ( 33.00%) instrs.   66.80 sec.  2.52 GB ram.
+aes128:   113257508 ( 34.00%) instrs.   67.12 sec.  2.52 GB ram.
+aes128:   116588609 ( 35.00%) instrs.   67.55 sec.  2.52 GB ram.
+aes128:   119919710 ( 36.00%) instrs.   67.77 sec.  2.52 GB ram.
+aes128:   123250816 ( 37.00%) instrs.   68.14 sec.  2.52 GB ram.
+aes128:   126581913 ( 38.00%) instrs.   68.68 sec.  2.53 GB ram.
+aes128:   129913016 ( 39.00%) instrs.   68.95 sec.  2.53 GB ram.
+aes128:   133244120 ( 40.00%) instrs.   69.24 sec.  2.53 GB ram.
+aes128:   136575228 ( 41.00%) instrs.   69.43 sec.  2.53 GB ram.
+aes128:   139906328 ( 42.00%) instrs.   69.56 sec.  2.53 GB ram.
+aes128:   143237433 ( 43.00%) instrs.   69.80 sec.  2.53 GB ram.
+aes128:   146568531 ( 44.00%) instrs.   70.82 sec.  2.54 GB ram.
+aes128:   149899638 ( 45.00%) instrs.   71.15 sec.  2.54 GB ram.
+aes128:   153230740 ( 46.00%) instrs.   72.27 sec.  2.55 GB ram.
+aes128:   156561841 ( 47.00%) instrs.   73.46 sec.  2.57 GB ram.
+aes128:   159892952 ( 48.00%) instrs.   74.30 sec.  2.57 GB ram.
+aes128:   163224050 ( 49.00%) instrs.   74.52 sec.  2.57 GB ram.
+aes128:   166555149 ( 50.00%) instrs.   74.73 sec.  2.57 GB ram.
+aes128:   169886252 ( 51.00%) instrs.   74.98 sec.  2.57 GB ram.
+aes128:   173217355 ( 52.00%) instrs.   75.20 sec.  2.57 GB ram.
+aes128:   176548458 ( 53.00%) instrs.   75.48 sec.  2.57 GB ram.
+aes128:   179879572 ( 54.00%) instrs.   75.87 sec.  2.57 GB ram.
+aes128:   183210666 ( 55.00%) instrs.   77.10 sec.  2.58 GB ram.
+aes128:   186541769 ( 56.00%) instrs.   77.43 sec.  2.58 GB ram.
+aes128:   189872870 ( 57.00%) instrs.   77.72 sec.  2.58 GB ram.
+aes128:   193203973 ( 58.00%) instrs.   78.36 sec.  2.59 GB ram.
+aes128:   196535077 ( 59.00%) instrs.   78.86 sec.  2.59 GB ram.
+aes128:   199866193 ( 60.00%) instrs.   79.22 sec.  2.59 GB ram.
+aes128:   203197285 ( 61.00%) instrs.   79.60 sec.  2.59 GB ram.
+aes128:   206528386 ( 62.00%) instrs.  111.47 sec.  2.66 GB ram.
+aes128:   209859495 ( 63.00%) instrs.  118.53 sec.  3.07 GB ram.
+aes128:   213190627 ( 64.00%) instrs.  118.60 sec.  3.07 GB ram.
+aes128:   216521699 ( 65.00%) instrs.  118.66 sec.  3.07 GB ram.
+aes128:   219852798 ( 66.00%) instrs.  119.08 sec.  3.07 GB ram.
+aes128:   223183900 ( 67.00%) instrs.  120.85 sec.  3.07 GB ram.
+aes128:   226515002 ( 68.00%) instrs.  122.14 sec.  3.07 GB ram.
+aes128:   229846105 ( 69.00%) instrs.  138.28 sec.  3.14 GB ram.
+aes128:   233177208 ( 70.00%) instrs.  144.17 sec.  3.15 GB ram.
+aes128:   236508315 ( 71.00%) instrs.  144.98 sec.  3.15 GB ram.
+aes128:   239839420 ( 72.00%) instrs.  157.74 sec.  3.24 GB ram.
+aes128:   243170518 ( 73.00%) instrs.  161.94 sec.  3.26 GB ram.
+aes128:   246501628 ( 74.00%) instrs.  162.28 sec.  3.26 GB ram.
+aes128:   249832727 ( 75.00%) instrs.  183.28 sec.  3.40 GB ram.
+aes128:   253163829 ( 76.00%) instrs.  227.24 sec.  3.65 GB ram.
+aes128:   256494934 ( 77.00%) instrs.  250.00 sec.  3.77 GB ram.
+aes128:   259826034 ( 78.00%) instrs.  255.69 sec.  3.79 GB ram.
+aes128:   263157138 ( 79.00%) instrs.  256.03 sec.  3.79 GB ram.
+aes128:   266488247 ( 80.00%) instrs.  256.44 sec.  3.79 GB ram.
+aes128:   269819343 ( 81.00%) instrs.  256.76 sec.  3.79 GB ram.
+aes128:   273150445 ( 82.00%) instrs.  257.05 sec.  3.79 GB ram.
+aes128:   276481556 ( 83.00%) instrs.  259.57 sec.  3.80 GB ram.
+aes128:   279812650 ( 84.00%) instrs.  259.90 sec.  3.80 GB ram.
+aes128:   283143754 ( 85.00%) instrs.  260.68 sec.  3.80 GB ram.
+aes128:   286474856 ( 86.00%) instrs.  262.61 sec.  3.81 GB ram.
+aes128:   289805977 ( 87.00%) instrs.  262.74 sec.  3.81 GB ram.
+aes128:   293137062 ( 88.00%) instrs.  262.80 sec.  3.81 GB ram.
+aes128:   296468203 ( 89.00%) instrs.  262.88 sec.  3.81 GB ram.
+aes128:   299799270 ( 90.00%) instrs.  263.16 sec.  3.81 GB ram.
+aes128:   303130376 ( 91.00%) instrs.  267.72 sec.  3.83 GB ram.
+aes128:   306461489 ( 92.00%) instrs.  277.90 sec.  3.89 GB ram.
+aes128:   309792578 ( 93.00%) instrs.  278.20 sec.  3.89 GB ram.
+aes128:   313123680 ( 94.00%) instrs.  281.41 sec.  3.90 GB ram.
+aes128:   316454789 ( 95.00%) instrs.  283.41 sec.  3.91 GB ram.
+aes128:   319785905 ( 96.00%) instrs.  283.50 sec.  3.91 GB ram.
+aes128:   323117005 ( 97.00%) instrs.  283.56 sec.  3.91 GB ram.
+aes128:   326448128 ( 98.00%) instrs.  283.64 sec.  3.91 GB ram.
+aes128:   329779198 ( 99.00%) instrs.  284.06 sec.  3.91 GB ram.
+./aes128-rr-nondet.log:  log is empty.
+./aes128-rr-nondet.log:  log is empty.
+Replay completed successfully. 1
+Time taken was: 335 seconds.
+Stats:
+RR_INPUT_1 number = 0, size = 0 bytes
+RR_INPUT_2 number = 0, size = 0 bytes
+RR_INPUT_4 number = 4773, size = 66822 bytes
+RR_INPUT_8 number = 24249, size = 436482 bytes
+RR_INTERRUPT_REQUEST number = 5295, size = 74130 bytes
+RR_EXIT_REQUEST number = 0, size = 0 bytes
+RR_SKIPPED_CALL number = 56, size = 2867 bytes
+RR_END_OF_LOG number = 1, size = 10 bytes
+RR_PENDING_INTERRUPTS number = 0, size = 0 bytes
+RR_EXCEPTION number = 0, size = 0 bytes
+max_queue_len = 309
+Checksum of guest memory: 0x41f99026
+Replay completed successfully 2.
+Missed calls: 
+MISSED_RETURN_OF_FN 404a00
+MISSED_RETURN_OF_FN 76360ec4
+MISSED_RETURN_OF_FN 6fe54da0
+MISSED_RETURN_OF_FN 7740e12b
+MISSED_RETURN_OF_FN 763ac5e0
+MISSED_RETURN_OF_FN 6fe9e8b4
+MISSED_RETURN_OF_FN 401c70
+MISSED_RETURN_OF_FN 402284
+MISSED_RETURN_OF_FN 4011a0
+MISSED_RETURN_OF_FN 76353c33
+MISSED_RETURN_OF_FN 773f68c8
+MISSED_RETURN_OF_FN 774137ce
+MISSED_RETURN_OF_FN 8287b39c
+MISSED_RETURN_OF_FN 773f70b0
+MISSED_RETURN_OF_FN 7731c245
+MISSED_RETURN_OF_FN 4012d0
+MISSED_RETURN_OF_FN 8287841c
+MISSED_RETURN_OF_FN 773f5c28
+MISSED_RETURN_OF_FN 77413679
+MISSED_RETURN_OF_FN 77410600
+MISSED_RETURN_OF_FN 773f5568
+MISSED_RETURN_OF_FN 82897534
+MISSED_RETURN_OF_FN 774173df
+Running CipherTrace's Randometer with unigrams output
+[0;32m2020-09-07 17:01:00,043 [0;36mrandometer.py:main@45 [1;33m[INFO] [0;37mStarting Randometer for information measurement at 2020-09-07 17:01:00.043524
+[0;32m2020-09-07 17:01:00,043 [0;36mrandometer.py:main@46 [1;33m[INFO] [0;37mReading unigram read file unigram_mem_read_report.bin
+[0;32m2020-09-07 17:01:01,210 [0;36mrandometer.py:main@52 [1;33m[INFO] [0;37mReading unigram write file unigram_mem_write_report.bin
+[0;32m2020-09-07 17:01:01,767 [0;36mrandometer.py:main@60 [1;33m[INFO] [0;37mComputing randomness of read buffers using Chi-Squared test...
+[0;32m2020-09-07 17:01:01,811 [0;36mrandometer.py:main@63 [1;33m[INFO] [0;37mComputing randomness of write buffers using Chi-Squared test...
+[0;32m2020-09-07 17:01:01,850 [0;36mrandometer.py:main@68 [1;33m[INFO] [0;37mComputing read buffer entropy...
+[0;32m2020-09-07 17:01:01,983 [0;36mrandometer.py:main@71 [1;33m[INFO] [0;37mComputing write buffer entropy...
+[0;32m2020-09-07 17:01:02,063 [0;36mrandometer.py:main@74 [1;33m[INFO] [0;37mEntropy reads: 20141 writes: 14683
+[0;32m2020-09-07 17:01:02,064 [0;36mrandometer.py:main@77 [1;33m[INFO] [0;37mApplying read entropy mask > 0:
+[0;32m2020-09-07 17:01:02,066 [0;36mrandometer.py:main@81 [1;33m[INFO] [0;37mApplying write entropy mask > 0:
+[0;32m2020-09-07 17:01:02,068 [0;36mrandometer.py:main@87 [1;33m[INFO] [0;37mApplying read rand mask > 10000:
+[0;32m2020-09-07 17:01:02,074 [0;36mrandometer.py:main@91 [1;33m[INFO] [0;37mApplying write rand mask < 1000:
+[0;32m2020-09-07 17:01:02,125 [0;36mrandometer.py:main@105 [1;33m[INFO] [0;37mResults: reads: 191, writes: 9
+[0;32m2020-09-07 17:01:02,127 [0;36mrandometer.py:main@117 [1;33m[INFO] [0;37mRead x Write combinations by caller:
+[0;32m2020-09-07 17:01:02,127 [0;36mrandometer.py:main@119 [1;33m[INFO] [0;37mStart reporting combinations for caller: 004c1376
+[0;32m2020-09-07 17:01:02,128 [0;36mrandometer.py:main@133 [1;33m[INFO] [0;37mEnd reporting combinations for caller: 004c1376
+[0;32m2020-09-07 17:01:02,128 [0;36mrandometer.py:main@119 [1;33m[INFO] [0;37mStart reporting combinations for caller: 7740a5f0
+[0;32m2020-09-07 17:01:02,128 [0;36mrandometer.py:main@133 [1;33m[INFO] [0;37mEnd reporting combinations for caller: 7740a5f0
+[0;32m2020-09-07 17:01:02,128 [0;36mrandometer.py:main@119 [1;33m[INFO] [0;37mStart reporting combinations for caller: 74d23027
+[0;32m2020-09-07 17:01:02,128 [0;36mrandometer.py:main@133 [1;33m[INFO] [0;37mEnd reporting combinations for caller: 74d23027
+[0;32m2020-09-07 17:01:02,129 [0;36mrandometer.py:main@119 [1;33m[INFO] [0;37mStart reporting combinations for caller: 773d940b
+(004c1376 303b0000 00000000): 45 x 1 combinations
+  Read sizes: 
+43192, 43192, 43192, 43192, 43192, 43192, 43192, 43192, 43192, 43192, 43192, 43192, 43192, 43192, 43192, 10640, 24968, 19648, 3896, 3896, 3896, 3852, 3896, 3896, 3896, 3896, 1948, 3896, 3896, 3896, 3896, 3896, 3896, 3896, 3896, 3896, 3896, 43192, 43192, 43192, 43192, 43192, 39296, 39296, 39296
+  Write sizes:
+1948
+  Read rand: 
+2689714.816818, 2721096.000000, 2689714.816818, 2822170.468605, 4103496.035562, 3708055.682904, 6867528.000000, 1049733.771439, 2822170.468605, 2689714.816818, 2721096.000000, 6867528.000000, 4103240.000000, 2721096.000000, 1245190.850157, 304374.303759, 22507.716757, 2495296.000000, 619464.000000, 98046.800821, 89848.361396, 88822.525441, 619464.000000, 97414.817248, 619464.000000, 222758.488706, 247396.000000, 268897.757700, 245448.000000, 404585.774127, 619464.000000, 619464.000000, 258024.854209, 250198.850103, 328473.347023, 222758.488706, 222758.488706, 2700298.726431, 2721096.000000, 2689714.816818, 728258.298203, 2721096.000000, 2473348.221498, 2475648.000000, 1266244.716612
+  Write rand:
+612.788501
+  Best input/output ratio (0 is best possible):
+0.0
+(7740a5f0 30249000 00000000): 3 x 3 combinations
+  Read sizes: 
+512, 512, 512
+  Write sizes:
+512, 512, 512
+  Read rand: 
+53504.000000, 53504.000000, 53183.000000
+  Write rand:
+394.000000, 262.000000, 306.000000
+  Best input/output ratio (0 is best possible):
+0.0
+(74d23027 668c3000 00000000): 2 x 1 combinations
+  Read sizes: 
+624, 624
+  Write sizes:
+624
+  Read rand: 
+22896.000000, 24336.000000
+  Write rand:
+300.717949
+  Best input/output ratio (0 is best possible):
+0.0
+(773d940b 303b0000 00000000): 109 x 1 combinations
+  Read sizes: 
+5119, 20476, 10238, 10238, 20476, 20476, 20476, 5119, 5119, 10238, 5119, 20476, 34296, 21152, 21152, 21152, 21152, 21152, 21152, 21152, 21152, 21152, 21152, 21152, 17864, 17864, 17864, 17864, 17864, 17864, 17864, 17344, 17344, 17344, 17344, 17344, 54280, 1550, 16668, 16668, 16668, 16668, 21152, 17188, 17188, 17188, 17188, 17188, 20476, 20476, 20476, 20476, 10238, 20476, 20476, 20476, 10238, 34296, 20476, 20476, 20476, 20476, 20476, 20476, 19952, 19952, 18548, 18548, 18548, 20476, 20476, 5119, 5119, 20476, 20476, 20476, 20476, 20476, 20476, 20476, 17624, 17624, 1928, 1928, 1928, 1928, 1928, 964, 600, 1420, 597, 3828, 3804, 3804, 11208, 11208, 520, 520, 520, 520, 520, 520, 520, 520, 520, 676, 676, 676, 676
+  Write sizes:
+5119
+  Read rand: 
+1305345.000000, 244410.485642, 1300226.000000, 58259.778472, 3255684.000000, 1994861.895683, 3255684.000000, 1305345.000000, 1013658.229928, 1300226.000000, 1305345.000000, 1289988.000000, 5189030.111500, 1040638.402421, 2009440.000000, 2111352.810893, 460986.142209, 3856175.201210, 3363168.000000, 569632.677761, 3363168.000000, 1332576.000000, 2088074.916793, 2009440.000000, 1121213.044335, 1125432.000000, 2840376.000000, 1125432.000000, 1893165.510076, 858166.624272, 2475571.872817, 830165.254613, 2626442.627306, 830165.254613, 3265418.627306, 3368677.195572, 11794424.886662, 118687.419355, 804672.951284, 2650212.000000, 804672.951284, 187347.750420, 243899.909228, 2732892.000000, 414797.344194, 2732892.000000, 1082844.000000, 1799089.015592, 329843.121703, 244410.485642, 214499.518656, 244410.485642, 171221.791366, 1329482.913850, 1289988.000000, 244410.485642, 171221.791366, 5189030.111500, 3750903.922641, 3255684.000000, 1002475.845282, 2999516.317249, 4288116.922055, 3111927.922641, 973100.535686, 233531.983962, 1977284.063834, 912920.946301, 3842225.513910, 3255684.000000, 244410.485642, 342633.070326, 1305345.000000, 1289988.000000, 713099.701504, 1482956.889236, 386533.444032, 3255684.000000, 1287814.625513, 1289988.000000, 1267956.114389, 1267956.114389, 306552.000000, 41744.431535, 306552.000000, 121464.000000, 27485.975104, 23406.456432, 101899.840000, 164093.014085, 43569.217755, 851619.272727, 604836.000000, 604836.000000, 1782072.000000, 982223.891506, 32760.000000, 82680.000000, 32760.000000, 18319.630769, 49400.000000, 16557.169231, 82680.000000, 32760.000000, 41400.984615, 99834.295858, 42588.000000, [0;32m2020-09-07 17:01:02,129 [0;36mrandometer.py:main@133 [1;33m[INFO] [0;37mEnd reporting combinations for caller: 773d940b
+[0;32m2020-09-07 17:01:02,130 [0;36mrandometer.py:main@119 [1;33m[INFO] [0;37mStart reporting combinations for caller: 77420352
+[0;32m2020-09-07 17:01:02,130 [0;36mrandometer.py:main@133 [1;33m[INFO] [0;37mEnd reporting combinations for caller: 77420352
+[0;32m2020-09-07 17:01:02,130 [0;36mrandometer.py:main@119 [1;33m[INFO] [0;37mStart reporting combinations for caller: 006766b9
+[0;32m2020-09-07 17:01:02,130 [0;36mrandometer.py:main@133 [1;33m[INFO] [0;37mEnd reporting combinations for caller: 006766b9
+[0;32m2020-09-07 17:01:02,130 [0;36mrandometer.py:main@119 [1;33m[INFO] [0;37mStart reporting combinations for caller: 75452a0f
+[0;32m2020-09-07 17:01:02,130 [0;36mrandometer.py:main@133 [1;33m[INFO] [0;37mEnd reporting combinations for caller: 75452a0f
+[0;32m2020-09-07 17:01:02,130 [0;36mrandometer.py:main@138 [1;33m[INFO] [0;37mEnd reporting combinations by callers
+[0;32m2020-09-07 17:01:02,130 [0;36mrandometer.py:main@140 [1;33m[INFO] [0;37mCallers for ASID 30249000 are set(['7740a5f0'])
+[0;32m2020-09-07 17:01:02,131 [0;36mrandometer.py:main@142 [1;33m[INFO] [0;37mRandometer finished measuring information of unigram_mem_read_report.bin and unigram_mem_write_report.bin at 2020-09-07 17:01:02.131108
+42588.000000, 107484.000000
+  Write rand:
+542.455753
+  Best input/output ratio (0 is best possible):
+0.0
+(77420352 303b0000 00000000): 10 x 1 combinations
+  Read sizes: 
+41872, 41872, 41644, 10411, 10411, 41644, 41644, 10468, 41644, 41872
+  Write sizes:
+10411
+  Read rand: 
+774173.682843, 6657648.000000, 6621396.000000, 2654805.000000, 239748.359139, 2623572.000000, 847959.196619, 2640314.911731, 2623572.000000, 2637936.000000
+  Write rand:
+59.623763
+  Best input/output ratio (0 is best possible):
+0.0
+(006766b9 303b0000 00000000): 20 x 1 combinations
+  Read sizes: 
+17844, 71468, 53624, 53624, 53624, 53624, 53624, 53624, 53624, 53624, 53624, 53624, 9908, 9908, 9908, 2477, 9908, 13236, 53624, 53624
+  Write sizes:
+53624
+  Read rand: 
+343168.565792, 1624681.656909, 2408605.692973, 3376009.031180, 7901250.223482, 7901250.223482, 3929590.489035, 1433202.765329, 798230.646576, 3929590.489035, 3929590.489035, 9128550.954498, 509378.491724, 212099.551070, 726939.115059, 172332.966895, 726939.115059, 1907029.361136, 604061.578398, 1030792.687453
+  Write rand:
+620.224974
+  Best input/output ratio (0 is best possible):
+0.0
+(75452a0f 30a59000 00000000): 2 x 1 combinations
+  Read sizes: 
+832, 832
+  Write sizes:
+832
+  Read rand: 
+40128.000000, 52416.000000
+  Write rand:
+790.153846
+  Best input/output ratio (0 is best possible):
+0.0
+Running stringsearch
+PANDA[stringsearch]:adding argument name=enc.
+PANDA[core]:initializing stringsearch
+PANDA[core]:loading required plugin callstack_instr
+PANDA[core]:initializing callstack_instr
+callstack_instr:  using asid stack_type
+search strings file [enc_search_strings.txt]
+stringsearch: added string of length 16 to search set
+stringsearch: added string of length 16 to search set
+stringsearch: added string of length 16 to search set
+loading snapshot
+... done.
+opening nondet log for read :	./aes128-rr-nondet.log
+./aes128-rr-nondet.log:   333110297 instrs total.
+aes128:     3331105 (  1.00%) instrs.    0.74 sec.  1.35 GB ram.
+aes128:     6662207 (  2.00%) instrs.    1.48 sec.  1.37 GB ram.
+aes128:     9993332 (  3.00%) instrs.    2.33 sec.  1.40 GB ram.
+aes128:    13324415 (  4.00%) instrs.    3.02 sec.  1.40 GB ram.
+aes128:    16655517 (  5.00%) instrs.    3.70 sec.  1.42 GB ram.
+aes128:    19986626 (  6.00%) instrs.    4.55 sec.  1.46 GB ram.
+aes128:    23317721 (  7.00%) instrs.    5.37 sec.  1.47 GB ram.
+aes128:    26648828 (  8.00%) instrs.    6.14 sec.  1.47 GB ram.
+aes128:    29979930 (  9.00%) instrs.    7.08 sec.  1.51 GB ram.
+aes128:    33311031 ( 10.00%) instrs.    7.98 sec.  1.53 GB ram.
+aes128:    36642134 ( 11.00%) instrs.    9.00 sec.  1.54 GB ram.
+aes128:    39973237 ( 12.00%) instrs.    9.88 sec.  1.55 GB ram.
+aes128:    43304342 ( 13.00%) instrs.   10.61 sec.  1.56 GB ram.
+aes128:    46635443 ( 14.00%) instrs.   11.22 sec.  1.56 GB ram.
+aes128:    49966545 ( 15.00%) instrs.   11.81 sec.  1.56 GB ram.
+aes128:    53297649 ( 16.00%) instrs.   12.38 sec.  1.56 GB ram.
+aes128:    56628752 ( 17.00%) instrs.   12.98 sec.  1.56 GB ram.
+aes128:    59959867 ( 18.00%) instrs.   13.51 sec.  1.56 GB ram.
+aes128:    63290962 ( 19.00%) instrs.   13.93 sec.  1.56 GB ram.
+aes128:    66622067 ( 20.00%) instrs.   14.26 sec.  1.56 GB ram.
+aes128:    69953165 ( 21.00%) instrs.   14.64 sec.  1.56 GB ram.
+aes128:    73284268 ( 22.00%) instrs.   15.21 sec.  1.56 GB ram.
+aes128:    76615370 ( 23.00%) instrs.   15.78 sec.  1.56 GB ram.
+aes128:    79946478 ( 24.00%) instrs.   16.36 sec.  1.56 GB ram.
+aes128:    83277575 ( 25.00%) instrs.   17.03 sec.  1.56 GB ram.
+aes128:    86608678 ( 26.00%) instrs.   17.61 sec.  1.56 GB ram.
+aes128:    89939783 ( 27.00%) instrs.   18.17 sec.  1.56 GB ram.
+aes128:    93270888 ( 28.00%) instrs.   18.78 sec.  1.56 GB ram.
+aes128:    96601995 ( 29.00%) instrs.   19.28 sec.  1.56 GB ram.
+aes128:    99933092 ( 30.00%) instrs.   19.64 sec.  1.56 GB ram.
+aes128:   103264197 ( 31.00%) instrs.   20.16 sec.  1.56 GB ram.
+aes128:   106595296 ( 32.00%) instrs.   20.76 sec.  1.56 GB ram.
+aes128:   109926403 ( 33.00%) instrs.   21.40 sec.  1.56 GB ram.
+aes128:   113257508 ( 34.00%) instrs.   22.00 sec.  1.56 GB ram.
+aes128:   116588609 ( 35.00%) instrs.   22.55 sec.  1.56 GB ram.
+aes128:   119919710 ( 36.00%) instrs.   23.01 sec.  1.57 GB ram.
+aes128:   123250816 ( 37.00%) instrs.   23.64 sec.  1.57 GB ram.
+aes128:   126581913 ( 38.00%) instrs.   24.26 sec.  1.57 GB ram.
+aes128:   129913016 ( 39.00%) instrs.   24.84 sec.  1.57 GB ram.
+aes128:   133244120 ( 40.00%) instrs.   25.48 sec.  1.57 GB ram.
+aes128:   136575228 ( 41.00%) instrs.   25.96 sec.  1.57 GB ram.
+aes128:   139906328 ( 42.00%) instrs.   26.30 sec.  1.57 GB ram.
+aes128:   143237433 ( 43.00%) instrs.   26.82 sec.  1.57 GB ram.
+aes128:   146568531 ( 44.00%) instrs.   27.46 sec.  1.57 GB ram.
+aes128:   149899638 ( 45.00%) instrs.   28.18 sec.  1.57 GB ram.
+aes128:   153230740 ( 46.00%) instrs.   28.79 sec.  1.57 GB ram.
+aes128:   156561841 ( 47.00%) instrs.   29.31 sec.  1.58 GB ram.
+aes128:   159892952 ( 48.00%) instrs.   29.79 sec.  1.58 GB ram.
+aes128:   163224050 ( 49.00%) instrs.   30.27 sec.  1.58 GB ram.
+aes128:   166555149 ( 50.00%) instrs.   30.74 sec.  1.58 GB ram.
+aes128:   169886252 ( 51.00%) instrs.   31.24 sec.  1.58 GB ram.
+aes128:   173217355 ( 52.00%) instrs.   31.72 sec.  1.58 GB ram.
+aes128:   176548458 ( 53.00%) instrs.   32.19 sec.  1.58 GB ram.
+aes128:   179879572 ( 54.00%) instrs.   32.66 sec.  1.58 GB ram.
+aes128:   183210666 ( 55.00%) instrs.   33.32 sec.  1.58 GB ram.
+aes128:   186541769 ( 56.00%) instrs.   33.94 sec.  1.58 GB ram.
+aes128:   189872870 ( 57.00%) instrs.   34.54 sec.  1.58 GB ram.
+aes128:   193203973 ( 58.00%) instrs.   35.16 sec.  1.58 GB ram.
+aes128:   196535077 ( 59.00%) instrs.   35.78 sec.  1.58 GB ram.
+aes128:   199866193 ( 60.00%) instrs.   36.38 sec.  1.58 GB ram.
+aes128:   203197285 ( 61.00%) instrs.   36.90 sec.  1.58 GB ram.
+aes128:   206528386 ( 62.00%) instrs.   37.80 sec.  1.60 GB ram.
+aes128:   209859503 ( 63.00%) instrs.   38.54 sec.  1.61 GB ram.
+aes128:   213190598 ( 64.00%) instrs.   38.82 sec.  1.61 GB ram.
+aes128:   216521699 ( 65.00%) instrs.   39.09 sec.  1.61 GB ram.
+aes128:   219852814 ( 66.00%) instrs.   39.37 sec.  1.61 GB ram.
+aes128:   223183900 ( 67.00%) instrs.   39.97 sec.  1.62 GB ram.
+aes128:   226515002 ( 68.00%) instrs.   40.80 sec.  1.63 GB ram.
+WRITE Match of str 1 at: instr_count=229065614 :  828a91fb 00401efa (asid=0x30249000)
+READ Match of str 1 at: instr_count=229066814 :  00401f1a 00401500 (asid=0x30249000)
+WRITE Match of str 1 at: instr_count=229066815 :  00401f1a 00401503 (asid=0x30249000)
+READ Match of str 1 at: instr_count=229067488 :  00401f1a 00401590 (asid=0x30249000)
+READ Match of str 0 at: instr_count=229073853 :  00401f4f 00401bce (asid=0x30249000)
+WRITE Match of str 0 at: instr_count=229073857 :  00401f4f 00401bd9 (asid=0x30249000)
+READ Match of str 0 at: instr_count=229074148 :  00401bfa 004015dd (asid=0x30249000)
+READ Match of str 1 at: instr_count=229074152 :  00401bfa 004015e8 (asid=0x30249000)
+WRITE Match of str 2 at: instr_count=229086970 :  00401bb0 004015f7 (asid=0x30249000)
+READ Match of str 2 at: instr_count=229087172 :  00401f4f 00401c62 (asid=0x30249000)
+WRITE Match of str 2 at: instr_count=229087173 :  00401f4f 00401c65 (asid=0x30249000)
+aes128:   229846105 ( 69.00%) instrs.   41.85 sec.  1.66 GB ram.
+aes128:   233177208 ( 70.00%) instrs.   42.68 sec.  1.67 GB ram.
+READ Match of str 2 at: instr_count=235448932 :  828a91fb 00401fa7 (asid=0x30249000)
+aes128:   236508315 ( 71.00%) instrs.   43.60 sec.  1.67 GB ram.
+READ Match of str 2 at: instr_count=237408306 :  8b8e7f7b 82872e13 (asid=0x00000000)
+WRITE Match of str 2 at: instr_count=237408306 :  8b8e7f7b 82872e13 (asid=0x00000000)
+READ Match of str 2 at: instr_count=237486494 :  6fef4993 6fea8939 (asid=0x30249000)
+aes128:   239839420 ( 72.00%) instrs.   44.53 sec.  1.68 GB ram.
+aes128:   243170518 ( 73.00%) instrs.   45.42 sec.  1.69 GB ram.
+aes128:   246501628 ( 74.00%) instrs.   46.26 sec.  1.69 GB ram.
+aes128:   249832727 ( 75.00%) instrs.   47.10 sec.  1.74 GB ram.
+aes128:   253163829 ( 76.00%) instrs.   48.30 sec.  1.80 GB ram.
+aes128:   256494934 ( 77.00%) instrs.   49.23 sec.  1.84 GB ram.
+aes128:   259826034 ( 78.00%) instrs.   49.96 sec.  1.84 GB ram.
+aes128:   263157138 ( 79.00%) instrs.   50.52 sec.  1.84 GB ram.
+aes128:   266488247 ( 80.00%) instrs.   51.34 sec.  1.84 GB ram.
+aes128:   269819343 ( 81.00%) instrs.   52.22 sec.  1.84 GB ram.
+aes128:   273150445 ( 82.00%) instrs.   53.10 sec.  1.84 GB ram.
+aes128:   276481556 ( 83.00%) instrs.   53.97 sec.  1.85 GB ram.
+aes128:   279812650 ( 84.00%) instrs.   54.84 sec.  1.85 GB ram.
+aes128:   283143754 ( 85.00%) instrs.   55.62 sec.  1.85 GB ram.
+aes128:   286474856 ( 86.00%) instrs.   56.37 sec.  1.85 GB ram.
+aes128:   289805964 ( 87.00%) instrs.   56.74 sec.  1.85 GB ram.
+aes128:   293137088 ( 88.00%) instrs.   57.08 sec.  1.85 GB ram.
+aes128:   296468184 ( 89.00%) instrs.   57.36 sec.  1.85 GB ram.
+aes128:   299799270 ( 90.00%) instrs.   57.82 sec.  1.85 GB ram.
+READ Match of str 2 at: instr_count=300489103 :  8b8499af 82872e13 (asid=0x00000000)
+WRITE Match of str 2 at: instr_count=300489103 :  8b8499af 82872e13 (asid=0x00000000)
+aes128:   303130376 ( 91.00%) instrs.   58.55 sec.  1.86 GB ram.
+aes128:   306461489 ( 92.00%) instrs.   59.33 sec.  1.87 GB ram.
+aes128:   309792578 ( 93.00%) instrs.   59.96 sec.  1.87 GB ram.
+aes128:   313123680 ( 94.00%) instrs.   60.64 sec.  1.88 GB ram.
+aes128:   316454795 ( 95.00%) instrs.   61.18 sec.  1.88 GB ram.
+aes128:   319785911 ( 96.00%) instrs.   61.45 sec.  1.88 GB ram.
+aes128:   323116994 ( 97.00%) instrs.   61.73 sec.  1.88 GB ram.
+aes128:   326448112 ( 98.00%) instrs.   62.00 sec.  1.88 GB ram.
+aes128:   329779198 ( 99.00%) instrs.   62.64 sec.  1.88 GB ram.
+./aes128-rr-nondet.log:  log is empty.
+./aes128-rr-nondet.log:  log is empty.
+Replay completed successfully. 1
+Time taken was: 66 seconds.
+Stats:
+RR_INPUT_1 number = 0, size = 0 bytes
+RR_INPUT_2 number = 0, size = 0 bytes
+RR_INPUT_4 number = 4773, size = 66822 bytes
+RR_INPUT_8 number = 24249, size = 436482 bytes
+RR_INTERRUPT_REQUEST number = 5295, size = 74130 bytes
+RR_EXIT_REQUEST number = 0, size = 0 bytes
+RR_SKIPPED_CALL number = 56, size = 2867 bytes
+RR_END_OF_LOG number = 1, size = 10 bytes
+RR_PENDING_INTERRUPTS number = 0, size = 0 bytes
+RR_EXCEPTION number = 0, size = 0 bytes
+max_queue_len = 309
+Checksum of guest memory: 0x41f99026
+Replay completed successfully 2.
+Running CipherTrace's Analyzer for CALLER 7740a5f0 and REPLAY aes128 and ASID 30249000 with func_stats output
+[0;32m2020-09-07 17:02:11,565 [0;36manalyzer.py:main@15 [1;33m[INFO] [0;37mStarting Analyzer for a 115276032 bytes trace func_stats at 2020-09-07 17:02:11.565059
+[0;32m2020-09-07 17:02:11,565 [0;36manalyzer.py:main@21 [1;33m[INFO] [0;37mfiltering criteria from config: maxexecs, 3, 1.0
+[0;32m2020-09-07 17:02:11,566 [0;36manalyzer.py:main@34 [1;33m[INFO] [0;37mReading the symbols file func_db
+[0;32m2020-09-07 17:02:11,566 [0;36manalyzer.py:main@40 [1;33m[INFO] [0;37mReading the stats file func_stats
+[0;32m2020-09-07 17:02:16,676 [0;36manalyzer.py:main@50 [1;33m[INFO] [0;37mFiltering by caller
+[0;32m2020-09-07 17:02:16,770 [0;36manalyzer.py:main@52 [1;33m[INFO] [0;37mfilteredByCaller count: 3
+[0;32m2020-09-07 17:02:16,770 [0;36manalyzer.py:main@54 [1;33m[INFO] [0;37mCollect the records with fields (maxexecs, llvm_bb) that have maximum values
+[0;32m2020-09-07 17:02:16,770 [0;36manalyzer.py:main@57 [1;33m[INFO] [0;37mFind the main stack records (where it all begins, with max values of the maxexecs)
+[0;32m2020-09-07 17:02:16,770 [0;36manalyzer.py:main@60 [1;33m[INFO] [0;37mmainRecs count: 1
+[0;32m2020-09-07 17:02:16,770 [0;36manalyzer.py:main@66 [1;33m[INFO] [0;37mExclude the main records from the filtered by caller ones be able to apply stack filtering.
+[0;32m2020-09-07 17:02:16,770 [0;36manalyzer.py:main@73 [1;33m[INFO] [0;37mDo the analysis for each comprehended caller stack
+[0;32m2020-09-07 17:02:16,770 [0;36manalyzer.py:main@97 [1;33m[INFO] [0;37mStack name: functionstack
+[0;32m2020-09-07 17:02:16,771 [0;36manalyzer.py:main@98 [1;33m[INFO] [0;37mStack filter: [u'828a9420', u'828a90ec', u'82897534']
+[0;32m2020-09-07 17:02:16,771 [0;36manalyzer.py:main@101 [1;33m[INFO] [0;37mFilter the records: those which share the stack filter, and certain stats (arith>1, loop>1, compc_write_entropy>1.0)
+[0;32m2020-09-07 17:02:16,937 [0;36manalyzer.py:main@107 [1;33m[INFO] [0;37mCreate the graph file (for CFG)
+[0;32m2020-09-07 17:02:17,012 [0;36manalyzer.py:main@116 [1;33m[INFO] [0;37mAggregate by maxexecs and groupby the entrypoint (function name)
+[0;32m2020-09-07 17:02:17,013 [0;36manalyzer.py:main@120 [1;33m[INFO] [0;37mFind the primitives, as per to certain traits
+[0;32m2020-09-07 17:02:17,303 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 4014dc
+[0;32m2020-09-07 17:02:17,303 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 40152d
+[0;32m2020-09-07 17:02:17,304 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,304 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 4015c1
+[0;32m2020-09-07 17:02:17,304 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 4015cf
+[0;32m2020-09-07 17:02:17,304 [0;36manalyzer.py:main@159 [1;33m[INFO] [0;37m<----------KRoundInit------------->
+[0;32m2020-09-07 17:02:17,304 [0;36manalyzer.py:main@165 [1;33m[INFO] [0;37m<----------KRound------------->
+[0;32m2020-09-07 17:02:17,304 [0;36manalyzer.py:main@171 [1;33m[INFO] [0;37m<----------S-Box------------->
+[0;32m2020-09-07 17:02:17,304 [0;36manalyzer.py:main@183 [1;33m[INFO] [0;37m<----------Shifting------------->
+[0;32m2020-09-07 17:02:17,305 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 401606
+[0;32m2020-09-07 17:02:17,305 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 401613
+[0;32m2020-09-07 17:02:17,305 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,305 [0;36manalyzer.py:main@165 [1;33m[INFO] [0;37m<----------KRound------------->
+[0;32m2020-09-07 17:02:17,305 [0;36manalyzer.py:main@171 [1;33m[INFO] [0;37m<----------S-Box------------->
+[0;32m2020-09-07 17:02:17,305 [0;36manalyzer.py:main@183 [1;33m[INFO] [0;37m<----------Shifting------------->
+[0;32m2020-09-07 17:02:17,305 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 401641
+[0;32m2020-09-07 17:02:17,305 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 4016ed
+[0;32m2020-09-07 17:02:17,305 [0;36manalyzer.py:main@165 [1;33m[INFO] [0;37m<----------KRound------------->
+[0;32m2020-09-07 17:02:17,305 [0;36manalyzer.py:main@183 [1;33m[INFO] [0;37m<----------Shifting------------->
+[0;32m2020-09-07 17:02:17,306 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 401711
+[0;32m2020-09-07 17:02:17,306 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 401b22
+[0;32m2020-09-07 17:02:17,306 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,306 [0;36manalyzer.py:main@165 [1;33m[INFO] [0;37m<----------KRound------------->
+[0;32m2020-09-07 17:02:17,306 [0;36manalyzer.py:main@177 [1;33m[INFO] [0;37m<----------Mixing------------->
+[0;32m2020-09-07 17:02:17,306 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 401bb3
+[0;32m2020-09-07 17:02:17,306 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 401bc0
+[0;32m2020-09-07 17:02:17,306 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,306 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 6eb41000
+[0;32m2020-09-07 17:02:17,307 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 6eb41028
+[0;32m2020-09-07 17:02:17,307 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 6fe41000
+[0;32m2020-09-07 17:02:17,307 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 6fe41028
+[0;32m2020-09-07 17:02:17,307 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 6fe54ce0
+[0;32m2020-09-07 17:02:17,307 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 77309b60
+[0;32m2020-09-07 17:02:17,307 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,307 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 6fe5d514
+[0;32m2020-09-07 17:02:17,307 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 6fec3c24
+[0;32m2020-09-07 17:02:17,307 [0;36manalyzer.py:main@159 [1;33m[INFO] [0;37m<----------KRoundInit------------->
+[0;32m2020-09-07 17:02:17,308 [0;36manalyzer.py:main@165 [1;33m[INFO] [0;37m<----------KRound------------->
+[0;32m2020-09-07 17:02:17,308 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 6fe7fc9c
+[0;32m2020-09-07 17:02:17,308 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 6fe7fdeb
+[0;32m2020-09-07 17:02:17,308 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,308 [0;36manalyzer.py:main@159 [1;33m[INFO] [0;37m<----------KRoundInit------------->
+[0;32m2020-09-07 17:02:17,308 [0;36manalyzer.py:main@165 [1;33m[INFO] [0;37m<----------KRound------------->
+[0;32m2020-09-07 17:02:17,308 [0;36manalyzer.py:main@177 [1;33m[INFO] [0;37m<----------Mixing------------->
+[0;32m2020-09-07 17:02:17,308 [0;36manalyzer.py:main@183 [1;33m[INFO] [0;37m<----------Shifting------------->
+[0;32m2020-09-07 17:02:17,308 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 6fe9e30c
+[0;32m2020-09-07 17:02:17,308 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 6fe9e434
+[0;32m2020-09-07 17:02:17,308 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,308 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 6fec4004
+[0;32m2020-09-07 17:02:17,308 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 6fec4015
+[0;32m2020-09-07 17:02:17,308 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,308 [0;36manalyzer.py:main@165 [1;33m[INFO] [0;37m<----------KRound------------->
+[0;32m2020-09-07 17:02:17,308 [0;36manalyzer.py:main@177 [1;33m[INFO] [0;37m<----------Mixing------------->
+[0;32m2020-09-07 17:02:17,308 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 6fee9804
+[0;32m2020-09-07 17:02:17,309 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 6fee986f
+[0;32m2020-09-07 17:02:17,309 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 6fef0a8c
+[0;32m2020-09-07 17:02:17,309 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 6fef0b55
+[0;32m2020-09-07 17:02:17,309 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,309 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 6fefade4
+[0;32m2020-09-07 17:02:17,309 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 6fe5d444
+[0;32m2020-09-07 17:02:17,309 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,309 [0;36manalyzer.py:main@171 [1;33m[INFO] [0;37m<----------S-Box------------->
+[0;32m2020-09-07 17:02:17,309 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 763496fb
+[0;32m2020-09-07 17:02:17,309 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 76349707
+[0;32m2020-09-07 17:02:17,309 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,309 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 7634bb74
+[0;32m2020-09-07 17:02:17,309 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 773e4cf3
+[0;32m2020-09-07 17:02:17,309 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,309 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 76351292
+[0;32m2020-09-07 17:02:17,309 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 76351292
+[0;32m2020-09-07 17:02:17,309 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,310 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 7635216e
+[0;32m2020-09-07 17:02:17,310 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 7635216e
+[0;32m2020-09-07 17:02:17,310 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,310 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 7730a7c3
+[0;32m2020-09-07 17:02:17,310 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 7730a824
+[0;32m2020-09-07 17:02:17,310 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,310 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 7730c151
+[0;32m2020-09-07 17:02:17,310 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 7730c15a
+[0;32m2020-09-07 17:02:17,310 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 773132cf
+[0;32m2020-09-07 17:02:17,310 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 77313339
+[0;32m2020-09-07 17:02:17,310 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,310 [0;36manalyzer.py:main@177 [1;33m[INFO] [0;37m<----------Mixing------------->
+[0;32m2020-09-07 17:02:17,310 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 773133a9
+[0;32m2020-09-07 17:02:17,310 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 773133f8
+[0;32m2020-09-07 17:02:17,310 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,310 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 77313736
+[0;32m2020-09-07 17:02:17,310 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 77313755
+[0;32m2020-09-07 17:02:17,311 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,311 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 77313869
+[0;32m2020-09-07 17:02:17,311 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 773138b4
+[0;32m2020-09-07 17:02:17,311 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,311 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 77313f64
+[0;32m2020-09-07 17:02:17,311 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 773141e1
+[0;32m2020-09-07 17:02:17,311 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,311 [0;36manalyzer.py:main@177 [1;33m[INFO] [0;37m<----------Mixing------------->
+[0;32m2020-09-07 17:02:17,311 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 773175e6
+[0;32m2020-09-07 17:02:17,311 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 77317652
+[0;32m2020-09-07 17:02:17,311 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,311 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 7731c2f9
+[0;32m2020-09-07 17:02:17,311 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 7731c2ae
+[0;32m2020-09-07 17:02:17,311 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,311 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 77327930
+[0;32m2020-09-07 17:02:17,311 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 82878337
+[0;32m2020-09-07 17:02:17,311 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,312 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 773cf51a
+[0;32m2020-09-07 17:02:17,312 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 773cf555
+[0;32m2020-09-07 17:02:17,312 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,312 [0;36manalyzer.py:main@159 [1;33m[INFO] [0;37m<----------KRoundInit------------->
+[0;32m2020-09-07 17:02:17,312 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 773e5b80
+[0;32m2020-09-07 17:02:17,312 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 773e5b94
+[0;32m2020-09-07 17:02:17,312 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 773e5bd0
+[0;32m2020-09-07 17:02:17,312 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 773e5be0
+[0;32m2020-09-07 17:02:17,312 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 77402c6a
+[0;32m2020-09-07 17:02:17,312 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 77402c6a
+[0;32m2020-09-07 17:02:17,312 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,312 [0;36manalyzer.py:main@159 [1;33m[INFO] [0;37m<----------KRoundInit------------->
+[0;32m2020-09-07 17:02:17,312 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 77402dd6
+[0;32m2020-09-07 17:02:17,312 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 77402dd6
+[0;32m2020-09-07 17:02:17,312 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,312 [0;36manalyzer.py:main@165 [1;33m[INFO] [0;37m<----------KRound------------->
+[0;32m2020-09-07 17:02:17,312 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 774058b5
+[0;32m2020-09-07 17:02:17,312 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 774058d4
+[0;32m2020-09-07 17:02:17,313 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 77405aec
+[0;32m2020-09-07 17:02:17,313 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 773de803
+[0;32m2020-09-07 17:02:17,313 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,313 [0;36manalyzer.py:main@159 [1;33m[INFO] [0;37m<----------KRoundInit------------->
+[0;32m2020-09-07 17:02:17,313 [0;36manalyzer.py:main@165 [1;33m[INFO] [0;37m<----------KRound------------->
+[0;32m2020-09-07 17:02:17,313 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 7740617c
+[0;32m2020-09-07 17:02:17,313 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 773cfb9c
+[0;32m2020-09-07 17:02:17,313 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,313 [0;36manalyzer.py:main@159 [1;33m[INFO] [0;37m<----------KRoundInit------------->
+[0;32m2020-09-07 17:02:17,313 [0;36manalyzer.py:main@165 [1;33m[INFO] [0;37m<----------KRound------------->
+[0;32m2020-09-07 17:02:17,313 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 77406f0a
+[0;32m2020-09-07 17:02:17,313 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 77406f30
+[0;32m2020-09-07 17:02:17,313 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 7740d7fd
+[0;32m2020-09-07 17:02:17,313 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 7740d811
+[0;32m2020-09-07 17:02:17,313 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,313 [0;36manalyzer.py:main@148 [1;33m[INFO] [0;37mentrypoint 7740e3b2
+[0;32m2020-09-07 17:02:17,313 [0;36manalyzer.py:main@149 [1;33m[INFO] [0;37mmaxexecs_addr 7740e0d8
+[0;32m2020-09-07 17:02:17,314 [0;36manalyzer.py:main@153 [1;33m[INFO] [0;37m<----------Scheduling-------------> 
+[0;32m2020-09-07 17:02:17,314 [0;36manalyzer.py:main@190 [1;33m[INFO] [0;37mCollecting state bases
+[0;32m2020-09-07 17:02:17,314 [0;36manalyzer.py:main@211 [1;33m[INFO] [0;37mReport overall stats
+[0;32m2020-09-07 17:02:17,314 [0;36manalyzer.py:main@212 [1;33m[INFO] [0;37mentrypoint of comprehended caller 76351fb7
+[0;32m2020-09-07 17:02:17,314 [0;36manalyzer.py:main@223 [1;33m[INFO] [0;37mCollect & report routines/functions, max 3 if there are duplicates
+[0;32m2020-09-07 17:02:17,320 [0;36manalyzer.py:main@264 [1;33m[INFO] [0;37mOverall routine reporting
+[0;32m2020-09-07 17:02:17,321 [0;36manalyzer.py:main@269 [1;33m[INFO] [0;37mRound routine is: Round(uchar ..)
+[0;32m2020-09-07 17:02:17,321 [0;36manalyzer.py:main@274 [1;33m[INFO] [0;37mMain function is: AESEncrypt(uchar ..)
+[0;32m2020-09-07 17:02:17,321 [0;36manalyzer.py:main@280 [1;33m[INFO] [0;37mCollecting tap points data: states (ciphertexts or plaintexts)
+[0;32m2020-09-07 17:02:17,322 [0;36manalyzer.py:main@295 [1;33m[INFO] [0;37mCollecting tap points data: key(s)
+[0;32m2020-09-07 17:02:17,322 [0;36manalyzer.py:main@304 [1;33m[INFO] [0;37mWriting tap files (if any)
+[0;32m2020-09-07 17:02:17,323 [0;36manalyzer.py:main@319 [1;33m[INFO] [0;37mAnalyzer finished analyzing trace of 115276032 bytes at 2020-09-07 17:02:17.323287
+Duration (excl. verifier): 8 minute(s) for REPLAY aes128 and ASID 30249000 and CALLER 7740a5f0
+Running CipherTrace's Verifier Light for REPLAY aes128 and ASID 30249000 with CipherTrace Analyzer's output and stringsearch
+[0;32m2020-09-07 17:02:17,869 [0;36mverifierlight.py:main@9 [1;33m[INFO] [0;37mStarting Verifier light at 2020-09-07 17:02:17.869383
+[0;32m2020-09-07 17:02:17,869 [0;36mverifierlight.py:main@12 [1;33m[INFO] [0;37mReading matches file enc_string_matches.txt
+[0;32m2020-09-07 17:02:17,870 [0;36mverifierlight.py:main@17 [1;33m[INFO] [0;37mReading .tap files in directory file .
+[0;32m2020-09-07 17:02:17,870 [0;36mverifierlight.py:main@23 [1;33m[INFO] [0;37mReading tap file ./aes128_76351fb7_states.tap
+[0;32m2020-09-07 17:02:17,870 [0;36mverifierlight.py:main@23 [1;33m[INFO] [0;37mReading tap file ./aes128_76351fb7_keys.tap
+[0;32m2020-09-07 17:02:17,870 [0;36mverifierlight.py:main@36 [1;33m[DEBUG] [0;37mCallers found: defaultdict(<type 'int'>, {'401f1a': 3, '401f4f': 21})
+[0;32m2020-09-07 17:02:17,871 [0;36mverifierlight.py:main@37 [1;33m[DEBUG] [0;37mPCs found: defaultdict(<type 'int'>, {'401500': 1, '401c65': 1, '401bce': 2})
+[0;32m2020-09-07 17:02:17,871 [0;36mverifierlight.py:main@39 [1;33m[INFO] [0;37mThe verifier should find data series
+[0;32m2020-09-07 17:02:17,871 [0;36mverifierlight.py:main@42 [1;33m[INFO] [0;37mVerifier light finished searching PCs and Callers in 15 matches at 2020-09-07 17:02:17.871426
+Running textprinter for TAP aes128_76351fb7_keys.tap and REPLAY aes128 and ASID 30249000 with CipherTrace Analyzer's output
+PANDA[core]:initializing callstack_instr
+PANDA[core]:initializing textprinter
+PANDA[core]:loading required plugin callstack_instr
+PANDA[core]:/home/osboxes/panda-re/panda/build/i386-softmmu/panda/plugins/panda_callstack_instr.so already loaded
+callstack_instr:  using asid stack_type
+Initializing plugin textprinter
+Tap points are all of stack type asid (0)
+Adding tap point (7742acc9,7742d8a7, (asid=0x30249000))
+Adding tap point (774065a6,773cfc74, (asid=0x30249000))
+Adding tap point (773140eb,77314004, (asid=0x30249000))
+Adding tap point (00401b6d,0040177c, (asid=0x30249000))
+Adding tap point (00401b57,0040162f, (asid=0x30249000))
+Adding tap point (77405ae0,77405f10, (asid=0x30249000))
+Adding tap point (7740e19f,7740e0da, (asid=0x30249000))
+Adding tap point (6feb286d,6fec40b5, (asid=0x30249000))
+Adding tap point (6fea8870,6fe54ce0, (asid=0x30249000))
+Adding tap point (00401b93,0040162f, (asid=0x30249000))
+Adding tap point (77309d45,77402eb8, (asid=0x30249000))
+Adding tap point (7635205d,77402cd2, (asid=0x30249000))
+Adding tap point (7730a922,7730a81b, (asid=0x30249000))
+Adding tap point (7731372c,77313796, (asid=0x30249000))
+Adding tap point (00401b6d,00401a0b, (asid=0x30249000))
+Adding tap point (77309d45,77402df6, (asid=0x30249000))
+Adding tap point (77405ae0,77405d49, (asid=0x30249000))
+Adding tap point (77379608,7734ba23, (asid=0x30249000))
+Adding tap point (774065a6,7743a0a0, (asid=0x30249000))
+Adding tap point (77309d45,77405ad0, (asid=0x30249000))
+Adding tap point (7635202a,76352180, (asid=0x30249000))
+Adding tap point (773177c5,77313414, (asid=0x30249000))
+Adding tap point (00401b6d,004017c5, (asid=0x30249000))
+Adding tap point (7576aa54,77402cd2, (asid=0x30249000))
+Adding tap point (7731a2e4,773138cb, (asid=0x30249000))
+Adding tap point (00401f1a,00401500, (asid=0x30249000))
+Adding tap point (773098cd,77402c86, (asid=0x30249000))
+Adding tap point (6fef0a89,6fef0b16, (asid=0x30249000))
+Adding tap point (773140eb,77314469, (asid=0x30249000))
+Adding tap point (6fe832f5,6fe7fe0c, (asid=0x30249000))
+Adding tap point (00401b6d,004019e2, (asid=0x30249000))
+Adding tap point (7742acf0,773cf54b, (asid=0x30249000))
+Adding tap point (773098cd,77402ca9, (asid=0x30249000))
+Adding tap point (00401b6d,00401a23, (asid=0x30249000))
+Adding tap point (6fe5d45b,6fefadea, (asid=0x30249000))
+Adding tap point (77405ae0,773de88c, (asid=0x30249000))
+Adding tap point (774056ec,77402cd2, (asid=0x30249000))
+Adding tap point (774065a6,77406275, (asid=0x30249000))
+Adding tap point (00401b6d,00401803, (asid=0x30249000))
+Adding tap point (773176f8,7731766f, (asid=0x30249000))
+Adding tap point (773098cd,77402c83, (asid=0x30249000))
+Adding tap point (7742acf0,7742d8a7, (asid=0x30249000))
+Adding tap point (773098cd,77402cd2, (asid=0x30249000))
+Adding tap point (7576c274,7740d844, (asid=0x30249000))
+Adding tap point (7635261f,77402c83, (asid=0x30249000))
+Adding tap point (76352af7,773e4cf5, (asid=0x30249000))
+Adding tap point (773176f8,77317608, (asid=0x30249000))
+Adding tap point (00401f4f,00401bce, (asid=0x30249000))
+Adding tap point (7637c7d3,773e4e03, (asid=0x30249000))
+Adding tap point (77405ae0,77405e0c, (asid=0x30249000))
+Adding tap point (77313656,77313414, (asid=0x30249000))
+Adding tap point (7731c3b3,76349754, (asid=0x30249000))
+Adding tap point (76352443,763512b2, (asid=0x30249000))
+Adding tap point (00401b6d,004017b0, (asid=0x30249000))
+Adding tap point (00401b6d,00401b0f, (asid=0x30249000))
+Adding tap point (773137df,77313318, (asid=0x30249000))
+Adding tap point (6fe9bd86,6fe9e331, (asid=0x30249000))
+Adding tap point (7731c2bc,7731c3f8, (asid=0x30249000))
+loading snapshot
+... done.
+opening nondet log for read :	./aes128-rr-nondet.log
+./aes128-rr-nondet.log:   333110297 instrs total.
+aes128:     3331105 (  1.00%) instrs.    0.54 sec.  1.33 GB ram.
+aes128:     6662207 (  2.00%) instrs.    0.93 sec.  1.34 GB ram.
+aes128:     9993332 (  3.00%) instrs.    1.36 sec.  1.35 GB ram.
+aes128:    13324415 (  4.00%) instrs.    1.68 sec.  1.35 GB ram.
+aes128:    16655517 (  5.00%) instrs.    2.04 sec.  1.35 GB ram.
+aes128:    19986626 (  6.00%) instrs.    2.49 sec.  1.36 GB ram.
+aes128:    23317721 (  7.00%) instrs.    2.86 sec.  1.36 GB ram.
+aes128:    26648828 (  8.00%) instrs.    3.20 sec.  1.36 GB ram.
+aes128:    29979930 (  9.00%) instrs.    3.68 sec.  1.37 GB ram.
+aes128:    33311031 ( 10.00%) instrs.    4.10 sec.  1.37 GB ram.
+aes128:    36642134 ( 11.00%) instrs.    4.51 sec.  1.38 GB ram.
+aes128:    39973237 ( 12.00%) instrs.    4.89 sec.  1.38 GB ram.
+aes128:    43304342 ( 13.00%) instrs.    5.25 sec.  1.38 GB ram.
+aes128:    46635443 ( 14.00%) instrs.    5.56 sec.  1.38 GB ram.
+aes128:    49966545 ( 15.00%) instrs.    5.86 sec.  1.38 GB ram.
+aes128:    53297649 ( 16.00%) instrs.    6.15 sec.  1.38 GB ram.
+aes128:    56628752 ( 17.00%) instrs.    6.46 sec.  1.38 GB ram.
+aes128:    59959867 ( 18.00%) instrs.    6.73 sec.  1.38 GB ram.
+aes128:    63290962 ( 19.00%) instrs.    6.96 sec.  1.38 GB ram.
+aes128:    66622067 ( 20.00%) instrs.    7.16 sec.  1.38 GB ram.
+aes128:    69953165 ( 21.00%) instrs.    7.36 sec.  1.38 GB ram.
+aes128:    73284268 ( 22.00%) instrs.    7.67 sec.  1.38 GB ram.
+aes128:    76615370 ( 23.00%) instrs.    7.97 sec.  1.38 GB ram.
+aes128:    79946478 ( 24.00%) instrs.    8.27 sec.  1.38 GB ram.
+aes128:    83277575 ( 25.00%) instrs.    8.60 sec.  1.38 GB ram.
+aes128:    86608678 ( 26.00%) instrs.    8.88 sec.  1.38 GB ram.
+aes128:    89939783 ( 27.00%) instrs.    9.16 sec.  1.38 GB ram.
+aes128:    93270888 ( 28.00%) instrs.    9.46 sec.  1.38 GB ram.
+aes128:    96601995 ( 29.00%) instrs.    9.70 sec.  1.38 GB ram.
+aes128:    99933092 ( 30.00%) instrs.    9.90 sec.  1.38 GB ram.
+aes128:   103264197 ( 31.00%) instrs.   10.17 sec.  1.38 GB ram.
+aes128:   106595296 ( 32.00%) instrs.   10.48 sec.  1.38 GB ram.
+aes128:   109926403 ( 33.00%) instrs.   10.79 sec.  1.38 GB ram.
+aes128:   113257508 ( 34.00%) instrs.   11.09 sec.  1.38 GB ram.
+aes128:   116588609 ( 35.00%) instrs.   11.36 sec.  1.38 GB ram.
+aes128:   119919710 ( 36.00%) instrs.   11.61 sec.  1.38 GB ram.
+aes128:   123250816 ( 37.00%) instrs.   11.92 sec.  1.38 GB ram.
+aes128:   126581913 ( 38.00%) instrs.   12.23 sec.  1.38 GB ram.
+aes128:   129913016 ( 39.00%) instrs.   12.52 sec.  1.38 GB ram.
+aes128:   133244120 ( 40.00%) instrs.   12.84 sec.  1.38 GB ram.
+aes128:   136575228 ( 41.00%) instrs.   13.08 sec.  1.38 GB ram.
+aes128:   139906328 ( 42.00%) instrs.   13.28 sec.  1.38 GB ram.
+aes128:   143237433 ( 43.00%) instrs.   13.56 sec.  1.38 GB ram.
+aes128:   146568531 ( 44.00%) instrs.   13.88 sec.  1.38 GB ram.
+aes128:   149899638 ( 45.00%) instrs.   14.20 sec.  1.38 GB ram.
+aes128:   153230740 ( 46.00%) instrs.   14.53 sec.  1.39 GB ram.
+aes128:   156561841 ( 47.00%) instrs.   14.80 sec.  1.39 GB ram.
+aes128:   159892952 ( 48.00%) instrs.   15.06 sec.  1.39 GB ram.
+aes128:   163224050 ( 49.00%) instrs.   15.30 sec.  1.39 GB ram.
+aes128:   166555149 ( 50.00%) instrs.   15.56 sec.  1.39 GB ram.
+aes128:   169886252 ( 51.00%) instrs.   15.80 sec.  1.39 GB ram.
+aes128:   173217355 ( 52.00%) instrs.   16.06 sec.  1.39 GB ram.
+aes128:   176548458 ( 53.00%) instrs.   16.30 sec.  1.39 GB ram.
+aes128:   179879572 ( 54.00%) instrs.   16.56 sec.  1.39 GB ram.
+aes128:   183210666 ( 55.00%) instrs.   16.88 sec.  1.39 GB ram.
+aes128:   186541769 ( 56.00%) instrs.   17.19 sec.  1.39 GB ram.
+aes128:   189872870 ( 57.00%) instrs.   17.49 sec.  1.39 GB ram.
+aes128:   193203973 ( 58.00%) instrs.   17.79 sec.  1.39 GB ram.
+aes128:   196535077 ( 59.00%) instrs.   18.09 sec.  1.39 GB ram.
+aes128:   199866193 ( 60.00%) instrs.   18.40 sec.  1.39 GB ram.
+aes128:   203197285 ( 61.00%) instrs.   18.66 sec.  1.39 GB ram.
+aes128:   206528386 ( 62.00%) instrs.   19.16 sec.  1.39 GB ram.
+aes128:   209859503 ( 63.00%) instrs.   19.52 sec.  1.40 GB ram.
+aes128:   213190598 ( 64.00%) instrs.   19.64 sec.  1.40 GB ram.
+aes128:   216521699 ( 65.00%) instrs.   19.76 sec.  1.40 GB ram.
+aes128:   219852814 ( 66.00%) instrs.   19.88 sec.  1.40 GB ram.
+aes128:   223183900 ( 67.00%) instrs.   20.16 sec.  1.40 GB ram.
+aes128:   226515002 ( 68.00%) instrs.   20.52 sec.  1.40 GB ram.
+aes128:   229846105 ( 69.00%) instrs.   21.04 sec.  1.41 GB ram.
+aes128:   233177208 ( 70.00%) instrs.   21.43 sec.  1.41 GB ram.
+aes128:   236508315 ( 71.00%) instrs.   21.84 sec.  1.41 GB ram.
+aes128:   239839420 ( 72.00%) instrs.   22.30 sec.  1.42 GB ram.
+aes128:   243170518 ( 73.00%) instrs.   22.67 sec.  1.42 GB ram.
+aes128:   246501628 ( 74.00%) instrs.   23.06 sec.  1.42 GB ram.
+aes128:   249832727 ( 75.00%) instrs.   23.50 sec.  1.42 GB ram.
+aes128:   253163829 ( 76.00%) instrs.   24.10 sec.  1.44 GB ram.
+aes128:   256494934 ( 77.00%) instrs.   24.54 sec.  1.45 GB ram.
+aes128:   259826034 ( 78.00%) instrs.   24.88 sec.  1.45 GB ram.
+aes128:   263157138 ( 79.00%) instrs.   25.15 sec.  1.45 GB ram.
+aes128:   266488247 ( 80.00%) instrs.   25.49 sec.  1.45 GB ram.
+aes128:   269819343 ( 81.00%) instrs.   25.83 sec.  1.45 GB ram.
+aes128:   273150445 ( 82.00%) instrs.   26.17 sec.  1.45 GB ram.
+aes128:   276481556 ( 83.00%) instrs.   26.52 sec.  1.45 GB ram.
+aes128:   279812650 ( 84.00%) instrs.   26.86 sec.  1.45 GB ram.
+aes128:   283143754 ( 85.00%) instrs.   27.20 sec.  1.45 GB ram.
+aes128:   286474856 ( 86.00%) instrs.   27.52 sec.  1.45 GB ram.
+aes128:   289805964 ( 87.00%) instrs.   27.66 sec.  1.45 GB ram.
+aes128:   293137088 ( 88.00%) instrs.   27.78 sec.  1.45 GB ram.
+aes128:   296468184 ( 89.00%) instrs.   27.90 sec.  1.45 GB ram.
+aes128:   299799270 ( 90.00%) instrs.   28.12 sec.  1.45 GB ram.
+aes128:   303130376 ( 91.00%) instrs.   28.44 sec.  1.45 GB ram.
+aes128:   306461489 ( 92.00%) instrs.   28.81 sec.  1.46 GB ram.
+aes128:   309792578 ( 93.00%) instrs.   29.10 sec.  1.46 GB ram.
+aes128:   313123680 ( 94.00%) instrs.   29.41 sec.  1.46 GB ram.
+aes128:   316454795 ( 95.00%) instrs.   29.73 sec.  1.46 GB ram.
+aes128:   319785911 ( 96.00%) instrs.   29.90 sec.  1.46 GB ram.
+aes128:   323116994 ( 97.00%) instrs.   30.04 sec.  1.46 GB ram.
+aes128:   326448112 ( 98.00%) instrs.   30.19 sec.  1.46 GB ram.
+aes128:   329779198 ( 99.00%) instrs.   30.48 sec.  1.46 GB ram.
+./aes128-rr-nondet.log:  log is empty.
+./aes128-rr-nondet.log:  log is empty.
+Replay completed successfully. 1
+Time taken was: 32 seconds.
+Stats:
+RR_INPUT_1 number = 0, size = 0 bytes
+RR_INPUT_2 number = 0, size = 0 bytes
+RR_INPUT_4 number = 4773, size = 66822 bytes
+RR_INPUT_8 number = 24249, size = 436482 bytes
+RR_INTERRUPT_REQUEST number = 5295, size = 74130 bytes
+RR_EXIT_REQUEST number = 0, size = 0 bytes
+RR_SKIPPED_CALL number = 56, size = 2867 bytes
+RR_END_OF_LOG number = 1, size = 10 bytes
+RR_PENDING_INTERRUPTS number = 0, size = 0 bytes
+RR_EXCEPTION number = 0, size = 0 bytes
+max_queue_len = 309
+Checksum of guest memory: 0x41f99026
+Replay completed successfully 2.
+Running CipherTrace's Verifier with textprinter output
+[0;32m2020-09-07 17:02:53,999 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:53.999798
+[0;32m2020-09-07 17:02:54,000 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 0 for read data buffers
+[0;32m2020-09-07 17:02:54,065 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 0 for write data buffers
+[0;32m2020-09-07 17:02:54,102 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:54.102262
+[0;32m2020-09-07 17:02:54,152 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:54.152352
+[0;32m2020-09-07 17:02:54,154 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 1 for read data buffers
+[0;32m2020-09-07 17:02:54,219 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 1 for write data buffers
+[0;32m2020-09-07 17:02:54,254 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:54.254173
+[0;32m2020-09-07 17:02:54,306 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:54.306112
+[0;32m2020-09-07 17:02:54,310 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 2 for read data buffers
+[0;32m2020-09-07 17:02:54,373 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 2 for write data buffers
+[0;32m2020-09-07 17:02:54,415 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:54.415025
+[0;32m2020-09-07 17:02:54,466 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:54.466670
+[0;32m2020-09-07 17:02:54,466 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 3 for read data buffers
+[0;32m2020-09-07 17:02:54,533 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 3 for write data buffers
+[0;32m2020-09-07 17:02:54,575 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:54.574999
+[0;32m2020-09-07 17:02:54,625 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:54.625793
+[0;32m2020-09-07 17:02:54,626 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 4 for read data buffers
+[0;32m2020-09-07 17:02:54,697 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 4 for write data buffers
+[0;32m2020-09-07 17:02:54,740 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:54.740481
+[0;32m2020-09-07 17:02:54,789 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:54.789411
+[0;32m2020-09-07 17:02:54,790 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 5 for read data buffers
+[0;32m2020-09-07 17:02:54,857 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 5 for write data buffers
+[0;32m2020-09-07 17:02:54,898 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:54.898719
+[0;32m2020-09-07 17:02:54,946 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:54.946385
+[0;32m2020-09-07 17:02:54,950 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 6 for read data buffers
+[0;32m2020-09-07 17:02:55,014 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 6 for write data buffers
+[0;32m2020-09-07 17:02:55,050 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:55.050587
+[0;32m2020-09-07 17:02:55,106 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:55.105975
+[0;32m2020-09-07 17:02:55,106 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 7 for read data buffers
+[0;32m2020-09-07 17:02:55,173 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 7 for write data buffers
+[0;32m2020-09-07 17:02:55,209 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:55.209578
+[0;32m2020-09-07 17:02:55,260 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:55.260489
+[0;32m2020-09-07 17:02:55,262 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 8 for read data buffers
+[0;32m2020-09-07 17:02:55,333 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 8 for write data buffers
+[0;32m2020-09-07 17:02:55,379 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:55.379143
+[0;32m2020-09-07 17:02:55,437 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:55.436988
+[0;32m2020-09-07 17:02:55,437 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 9 for read data buffers
+[0;32m2020-09-07 17:02:55,503 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 9 for write data buffers
+[0;32m2020-09-07 17:02:55,542 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:55.542499
+[0;32m2020-09-07 17:02:55,595 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:55.595599
+[0;32m2020-09-07 17:02:55,595 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 10 for read data buffers
+[0;32m2020-09-07 17:02:55,669 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 10 for write data buffers
+[0;32m2020-09-07 17:02:55,710 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:55.706012
+[0;32m2020-09-07 17:02:55,752 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:55.752817
+[0;32m2020-09-07 17:02:55,753 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 11 for read data buffers
+[0;32m2020-09-07 17:02:55,831 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 11 for write data buffers
+[0;32m2020-09-07 17:02:55,866 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:55.866175
+[0;32m2020-09-07 17:02:55,934 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:55.933947
+[0;32m2020-09-07 17:02:55,934 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 12 for read data buffers
+[0;32m2020-09-07 17:02:56,002 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 12 for write data buffers
+[0;32m2020-09-07 17:02:56,046 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:56.046183
+[0;32m2020-09-07 17:02:56,087 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:56.087107
+[0;32m2020-09-07 17:02:56,087 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 13 for read data buffers
+[0;32m2020-09-07 17:02:56,147 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 13 for write data buffers
+[0;32m2020-09-07 17:02:56,185 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:56.184972
+[0;32m2020-09-07 17:02:56,235 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:56.235612
+[0;32m2020-09-07 17:02:56,237 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 14 for read data buffers
+[0;32m2020-09-07 17:02:56,314 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 14 for write data buffers
+[0;32m2020-09-07 17:02:56,359 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:56.359534
+[0;32m2020-09-07 17:02:56,409 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:56.409578
+[0;32m2020-09-07 17:02:56,414 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 15 for read data buffers
+[0;32m2020-09-07 17:02:56,488 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 15 for write data buffers
+[0;32m2020-09-07 17:02:56,534 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:56.534464
+[0;32m2020-09-07 17:02:56,594 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:56.594552
+[0;32m2020-09-07 17:02:56,594 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 16 for read data buffers
+[0;32m2020-09-07 17:02:56,666 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 16 for write data buffers
+[0;32m2020-09-07 17:02:56,721 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:56.721083
+[0;32m2020-09-07 17:02:56,775 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:56.775489
+[0;32m2020-09-07 17:02:56,775 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 17 for read data buffers
+[0;32m2020-09-07 17:02:56,852 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 17 for write data buffers
+[0;32m2020-09-07 17:02:56,936 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:56.936690
+[0;32m2020-09-07 17:02:56,987 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:56.987781
+[0;32m2020-09-07 17:02:56,990 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 18 for read data buffers
+[0;32m2020-09-07 17:02:57,066 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 18 for write data buffers
+[0;32m2020-09-07 17:02:57,109 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:57.109795
+[0;32m2020-09-07 17:02:57,170 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:57.170237
+[0;32m2020-09-07 17:02:57,170 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 19 for read data buffers
+[0;32m2020-09-07 17:02:57,249 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 19 for write data buffers
+[0;32m2020-09-07 17:02:57,285 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:57.284957
+[0;32m2020-09-07 17:02:57,330 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:57.330588
+[0;32m2020-09-07 17:02:57,339 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 20 for read data buffers
+[0;32m2020-09-07 17:02:57,415 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 20 for write data buffers
+[0;32m2020-09-07 17:02:57,458 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:57.458284
+[0;32m2020-09-07 17:02:57,521 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:57.521174
+[0;32m2020-09-07 17:02:57,521 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 21 for read data buffers
+[0;32m2020-09-07 17:02:57,595 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 21 for write data buffers
+[0;32m2020-09-07 17:02:57,642 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:57.641942
+[0;32m2020-09-07 17:02:57,693 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:57.693747
+[0;32m2020-09-07 17:02:57,694 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 22 for read data buffers
+[0;32m2020-09-07 17:02:57,771 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 22 for write data buffers
+[0;32m2020-09-07 17:02:57,820 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:57.819955
+[0;32m2020-09-07 17:02:57,868 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:02:57.868391
+[0;32m2020-09-07 17:02:57,870 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 23 for read data buffers
+[0;32m2020-09-07 17:02:57,947 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 23 for write data buffers
+[0;32m2020-09-07 17:02:57,965 [0;36mverifier.py:main@63 [1;33m[INFO] [0;37mData Series 1 was found in the read tap buffers, starting from line 15778 till 15794
+[0;32m2020-09-07 17:02:57,972 [0;36mverifier.py:main@63 [1;33m[INFO] [0;37mData Series 2 was found in the read tap buffers, starting from line 15762 till 15778
+[0;32m2020-09-07 17:02:57,991 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:02:57.991382
+Running textprinter for TAP aes128_76351fb7_states.tap and REPLAY aes128 and ASID 30249000 with CipherTrace Analyzer's output
+PANDA[core]:initializing callstack_instr
+PANDA[core]:initializing textprinter
+PANDA[core]:loading required plugin callstack_instr
+PANDA[core]:/home/osboxes/panda-re/panda/build/i386-softmmu/panda/plugins/panda_callstack_instr.so already loaded
+callstack_instr:  using asid stack_type
+Initializing plugin textprinter
+Tap points are all of stack type asid (0)
+Adding tap point (00401f4f,00401c65, (asid=0x30249000))
+Adding tap point (00401f4f,00401bce, (asid=0x30249000))
+loading snapshot
+... done.
+opening nondet log for read :	./aes128-rr-nondet.log
+./aes128-rr-nondet.log:   333110297 instrs total.
+aes128:     3331105 (  1.00%) instrs.    0.62 sec.  1.33 GB ram.
+aes128:     6662207 (  2.00%) instrs.    1.08 sec.  1.34 GB ram.
+aes128:     9993332 (  3.00%) instrs.    1.62 sec.  1.34 GB ram.
+aes128:    13324415 (  4.00%) instrs.    2.02 sec.  1.34 GB ram.
+aes128:    16655517 (  5.00%) instrs.    2.50 sec.  1.35 GB ram.
+aes128:    19986626 (  6.00%) instrs.    3.07 sec.  1.36 GB ram.
+aes128:    23317721 (  7.00%) instrs.    3.70 sec.  1.36 GB ram.
+aes128:    26648828 (  8.00%) instrs.    4.37 sec.  1.36 GB ram.
+aes128:    29979930 (  9.00%) instrs.    5.01 sec.  1.37 GB ram.
+aes128:    33311031 ( 10.00%) instrs.    5.52 sec.  1.37 GB ram.
+aes128:    36642134 ( 11.00%) instrs.    6.02 sec.  1.37 GB ram.
+aes128:    39973237 ( 12.00%) instrs.    6.48 sec.  1.38 GB ram.
+aes128:    43304342 ( 13.00%) instrs.    6.92 sec.  1.38 GB ram.
+aes128:    46635443 ( 14.00%) instrs.    7.31 sec.  1.38 GB ram.
+aes128:    49966545 ( 15.00%) instrs.    7.67 sec.  1.38 GB ram.
+aes128:    53297649 ( 16.00%) instrs.    8.02 sec.  1.38 GB ram.
+aes128:    56628752 ( 17.00%) instrs.    8.39 sec.  1.38 GB ram.
+aes128:    59959867 ( 18.00%) instrs.    8.74 sec.  1.38 GB ram.
+aes128:    63290962 ( 19.00%) instrs.    9.02 sec.  1.38 GB ram.
+aes128:    66622067 ( 20.00%) instrs.    9.26 sec.  1.38 GB ram.
+aes128:    69953165 ( 21.00%) instrs.    9.51 sec.  1.38 GB ram.
+aes128:    73284268 ( 22.00%) instrs.    9.89 sec.  1.38 GB ram.
+aes128:    76615370 ( 23.00%) instrs.   10.26 sec.  1.38 GB ram.
+aes128:    79946478 ( 24.00%) instrs.   10.63 sec.  1.38 GB ram.
+aes128:    83277575 ( 25.00%) instrs.   11.03 sec.  1.38 GB ram.
+aes128:    86608678 ( 26.00%) instrs.   11.38 sec.  1.38 GB ram.
+aes128:    89939783 ( 27.00%) instrs.   11.77 sec.  1.38 GB ram.
+aes128:    93270888 ( 28.00%) instrs.   12.16 sec.  1.38 GB ram.
+aes128:    96601995 ( 29.00%) instrs.   12.51 sec.  1.38 GB ram.
+aes128:    99933092 ( 30.00%) instrs.   12.79 sec.  1.38 GB ram.
+aes128:   103264197 ( 31.00%) instrs.   13.12 sec.  1.38 GB ram.
+aes128:   106595296 ( 32.00%) instrs.   13.50 sec.  1.38 GB ram.
+aes128:   109926403 ( 33.00%) instrs.   13.88 sec.  1.38 GB ram.
+aes128:   113257508 ( 34.00%) instrs.   14.24 sec.  1.38 GB ram.
+aes128:   116588609 ( 35.00%) instrs.   14.58 sec.  1.38 GB ram.
+aes128:   119919710 ( 36.00%) instrs.   14.86 sec.  1.38 GB ram.
+aes128:   123250816 ( 37.00%) instrs.   15.24 sec.  1.38 GB ram.
+aes128:   126581913 ( 38.00%) instrs.   15.61 sec.  1.38 GB ram.
+aes128:   129913016 ( 39.00%) instrs.   15.96 sec.  1.38 GB ram.
+aes128:   133244120 ( 40.00%) instrs.   16.34 sec.  1.38 GB ram.
+aes128:   136575228 ( 41.00%) instrs.   16.63 sec.  1.38 GB ram.
+aes128:   139906328 ( 42.00%) instrs.   16.86 sec.  1.38 GB ram.
+aes128:   143237433 ( 43.00%) instrs.   17.19 sec.  1.38 GB ram.
+aes128:   146568531 ( 44.00%) instrs.   17.58 sec.  1.38 GB ram.
+aes128:   149899638 ( 45.00%) instrs.   17.98 sec.  1.38 GB ram.
+aes128:   153230740 ( 46.00%) instrs.   18.36 sec.  1.39 GB ram.
+aes128:   156561841 ( 47.00%) instrs.   18.69 sec.  1.39 GB ram.
+aes128:   159892952 ( 48.00%) instrs.   18.99 sec.  1.39 GB ram.
+aes128:   163224050 ( 49.00%) instrs.   19.30 sec.  1.39 GB ram.
+aes128:   166555149 ( 50.00%) instrs.   19.60 sec.  1.39 GB ram.
+aes128:   169886252 ( 51.00%) instrs.   19.89 sec.  1.39 GB ram.
+aes128:   173217355 ( 52.00%) instrs.   20.19 sec.  1.39 GB ram.
+aes128:   176548458 ( 53.00%) instrs.   20.49 sec.  1.39 GB ram.
+aes128:   179879572 ( 54.00%) instrs.   20.79 sec.  1.39 GB ram.
+aes128:   183210666 ( 55.00%) instrs.   21.19 sec.  1.39 GB ram.
+aes128:   186541769 ( 56.00%) instrs.   21.56 sec.  1.39 GB ram.
+aes128:   189872870 ( 57.00%) instrs.   21.92 sec.  1.39 GB ram.
+aes128:   193203973 ( 58.00%) instrs.   22.29 sec.  1.39 GB ram.
+aes128:   196535077 ( 59.00%) instrs.   22.66 sec.  1.39 GB ram.
+aes128:   199866193 ( 60.00%) instrs.   23.02 sec.  1.39 GB ram.
+aes128:   203197285 ( 61.00%) instrs.   23.32 sec.  1.39 GB ram.
+aes128:   206528386 ( 62.00%) instrs.   23.84 sec.  1.39 GB ram.
+aes128:   209859503 ( 63.00%) instrs.   24.28 sec.  1.40 GB ram.
+aes128:   213190598 ( 64.00%) instrs.   24.42 sec.  1.40 GB ram.
+aes128:   216521699 ( 65.00%) instrs.   24.56 sec.  1.40 GB ram.
+aes128:   219852814 ( 66.00%) instrs.   24.70 sec.  1.40 GB ram.
+aes128:   223183900 ( 67.00%) instrs.   25.04 sec.  1.40 GB ram.
+aes128:   226515002 ( 68.00%) instrs.   25.46 sec.  1.40 GB ram.
+aes128:   229846105 ( 69.00%) instrs.   26.10 sec.  1.41 GB ram.
+aes128:   233177208 ( 70.00%) instrs.   26.56 sec.  1.41 GB ram.
+aes128:   236508315 ( 71.00%) instrs.   27.05 sec.  1.41 GB ram.
+aes128:   239839420 ( 72.00%) instrs.   27.61 sec.  1.41 GB ram.
+aes128:   243170518 ( 73.00%) instrs.   28.07 sec.  1.42 GB ram.
+aes128:   246501628 ( 74.00%) instrs.   28.52 sec.  1.42 GB ram.
+aes128:   249832727 ( 75.00%) instrs.   29.06 sec.  1.42 GB ram.
+aes128:   253163829 ( 76.00%) instrs.   29.80 sec.  1.44 GB ram.
+aes128:   256494934 ( 77.00%) instrs.   30.32 sec.  1.45 GB ram.
+aes128:   259826034 ( 78.00%) instrs.   30.74 sec.  1.45 GB ram.
+aes128:   263157138 ( 79.00%) instrs.   31.06 sec.  1.45 GB ram.
+aes128:   266488247 ( 80.00%) instrs.   31.46 sec.  1.45 GB ram.
+aes128:   269819343 ( 81.00%) instrs.   31.88 sec.  1.45 GB ram.
+aes128:   273150445 ( 82.00%) instrs.   32.28 sec.  1.45 GB ram.
+aes128:   276481556 ( 83.00%) instrs.   32.72 sec.  1.45 GB ram.
+aes128:   279812650 ( 84.00%) instrs.   33.12 sec.  1.45 GB ram.
+aes128:   283143754 ( 85.00%) instrs.   33.52 sec.  1.45 GB ram.
+aes128:   286474856 ( 86.00%) instrs.   33.90 sec.  1.45 GB ram.
+aes128:   289805964 ( 87.00%) instrs.   34.06 sec.  1.45 GB ram.
+aes128:   293137088 ( 88.00%) instrs.   34.20 sec.  1.45 GB ram.
+aes128:   296468184 ( 89.00%) instrs.   34.34 sec.  1.45 GB ram.
+aes128:   299799270 ( 90.00%) instrs.   34.60 sec.  1.45 GB ram.
+aes128:   303130376 ( 91.00%) instrs.   34.99 sec.  1.45 GB ram.
+aes128:   306461489 ( 92.00%) instrs.   35.44 sec.  1.46 GB ram.
+aes128:   309792578 ( 93.00%) instrs.   35.79 sec.  1.46 GB ram.
+aes128:   313123680 ( 94.00%) instrs.   36.16 sec.  1.46 GB ram.
+aes128:   316454795 ( 95.00%) instrs.   36.46 sec.  1.46 GB ram.
+aes128:   319785911 ( 96.00%) instrs.   36.59 sec.  1.46 GB ram.
+aes128:   323116994 ( 97.00%) instrs.   36.73 sec.  1.46 GB ram.
+aes128:   326448112 ( 98.00%) instrs.   36.87 sec.  1.46 GB ram.
+aes128:   329779198 ( 99.00%) instrs.   37.20 sec.  1.46 GB ram.
+./aes128-rr-nondet.log:  log is empty.
+./aes128-rr-nondet.log:  log is empty.
+Replay completed successfully. 1
+Time taken was: 40 seconds.
+Stats:
+RR_INPUT_1 number = 0, size = 0 bytes
+RR_INPUT_2 number = 0, size = 0 bytes
+RR_INPUT_4 number = 4773, size = 66822 bytes
+RR_INPUT_8 number = 24249, size = 436482 bytes
+RR_INTERRUPT_REQUEST number = 5295, size = 74130 bytes
+RR_EXIT_REQUEST number = 0, size = 0 bytes
+RR_SKIPPED_CALL number = 56, size = 2867 bytes
+RR_END_OF_LOG number = 1, size = 10 bytes
+RR_PENDING_INTERRUPTS number = 0, size = 0 bytes
+RR_EXCEPTION number = 0, size = 0 bytes
+max_queue_len = 309
+Checksum of guest memory: 0x41f99026
+Replay completed successfully 2.
+Running CipherTrace's Verifier with textprinter output
+[0;32m2020-09-07 17:03:41,557 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:41.557688
+[0;32m2020-09-07 17:03:41,557 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 0 for read data buffers
+[0;32m2020-09-07 17:03:41,558 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 0 for write data buffers
+[0;32m2020-09-07 17:03:41,558 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:41.558408
+[0;32m2020-09-07 17:03:41,626 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:41.626393
+[0;32m2020-09-07 17:03:41,626 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 1 for read data buffers
+[0;32m2020-09-07 17:03:41,627 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 1 for write data buffers
+[0;32m2020-09-07 17:03:41,627 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:41.627905
+[0;32m2020-09-07 17:03:41,698 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:41.698769
+[0;32m2020-09-07 17:03:41,699 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 2 for read data buffers
+[0;32m2020-09-07 17:03:41,700 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 2 for write data buffers
+[0;32m2020-09-07 17:03:41,700 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:41.700488
+[0;32m2020-09-07 17:03:41,755 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:41.755838
+[0;32m2020-09-07 17:03:41,756 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 3 for read data buffers
+[0;32m2020-09-07 17:03:41,767 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 3 for write data buffers
+[0;32m2020-09-07 17:03:41,767 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:41.767470
+[0;32m2020-09-07 17:03:41,844 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:41.843954
+[0;32m2020-09-07 17:03:41,844 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 4 for read data buffers
+[0;32m2020-09-07 17:03:41,844 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 4 for write data buffers
+[0;32m2020-09-07 17:03:41,844 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:41.844936
+[0;32m2020-09-07 17:03:41,901 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:41.901263
+[0;32m2020-09-07 17:03:41,901 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 5 for read data buffers
+[0;32m2020-09-07 17:03:41,901 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 5 for write data buffers
+[0;32m2020-09-07 17:03:41,902 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:41.901983
+[0;32m2020-09-07 17:03:41,957 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:41.957410
+[0;32m2020-09-07 17:03:41,958 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 6 for read data buffers
+[0;32m2020-09-07 17:03:41,958 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 6 for write data buffers
+[0;32m2020-09-07 17:03:41,959 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:41.959072
+[0;32m2020-09-07 17:03:42,026 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:42.026432
+[0;32m2020-09-07 17:03:42,026 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 7 for read data buffers
+[0;32m2020-09-07 17:03:42,027 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 7 for write data buffers
+[0;32m2020-09-07 17:03:42,027 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:42.027586
+[0;32m2020-09-07 17:03:42,085 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:42.085432
+[0;32m2020-09-07 17:03:42,085 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 8 for read data buffers
+[0;32m2020-09-07 17:03:42,085 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 8 for write data buffers
+[0;32m2020-09-07 17:03:42,086 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:42.086210
+[0;32m2020-09-07 17:03:42,139 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:42.139463
+[0;32m2020-09-07 17:03:42,142 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 9 for read data buffers
+[0;32m2020-09-07 17:03:42,142 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 9 for write data buffers
+[0;32m2020-09-07 17:03:42,142 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:42.142582
+[0;32m2020-09-07 17:03:42,208 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:42.208884
+[0;32m2020-09-07 17:03:42,209 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 10 for read data buffers
+[0;32m2020-09-07 17:03:42,209 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 10 for write data buffers
+[0;32m2020-09-07 17:03:42,210 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:42.210204
+[0;32m2020-09-07 17:03:42,265 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:42.265712
+[0;32m2020-09-07 17:03:42,265 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 11 for read data buffers
+[0;32m2020-09-07 17:03:42,266 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 11 for write data buffers
+[0;32m2020-09-07 17:03:42,266 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:42.266426
+[0;32m2020-09-07 17:03:42,321 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:42.320997
+[0;32m2020-09-07 17:03:42,322 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 12 for read data buffers
+[0;32m2020-09-07 17:03:42,322 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 12 for write data buffers
+[0;32m2020-09-07 17:03:42,322 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:42.322705
+[0;32m2020-09-07 17:03:42,392 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:42.392588
+[0;32m2020-09-07 17:03:42,393 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 13 for read data buffers
+[0;32m2020-09-07 17:03:42,393 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 13 for write data buffers
+[0;32m2020-09-07 17:03:42,393 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:42.393872
+[0;32m2020-09-07 17:03:42,449 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:42.449845
+[0;32m2020-09-07 17:03:42,450 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 14 for read data buffers
+[0;32m2020-09-07 17:03:42,450 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 14 for write data buffers
+[0;32m2020-09-07 17:03:42,450 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:42.450768
+[0;32m2020-09-07 17:03:42,504 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:42.504915
+[0;32m2020-09-07 17:03:42,510 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 15 for read data buffers
+[0;32m2020-09-07 17:03:42,511 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 15 for write data buffers
+[0;32m2020-09-07 17:03:42,511 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:42.511324
+[0;32m2020-09-07 17:03:42,583 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:42.583141
+[0;32m2020-09-07 17:03:42,583 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 16 for read data buffers
+[0;32m2020-09-07 17:03:42,583 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 16 for write data buffers
+[0;32m2020-09-07 17:03:42,584 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:42.584155
+[0;32m2020-09-07 17:03:42,644 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:42.644653
+[0;32m2020-09-07 17:03:42,644 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 17 for read data buffers
+[0;32m2020-09-07 17:03:42,645 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 17 for write data buffers
+[0;32m2020-09-07 17:03:42,645 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:42.645418
+[0;32m2020-09-07 17:03:42,706 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:42.706830
+[0;32m2020-09-07 17:03:42,710 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 18 for read data buffers
+[0;32m2020-09-07 17:03:42,710 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 18 for write data buffers
+[0;32m2020-09-07 17:03:42,710 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:42.710729
+[0;32m2020-09-07 17:03:42,784 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:42.783779
+[0;32m2020-09-07 17:03:42,784 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 19 for read data buffers
+[0;32m2020-09-07 17:03:42,784 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 19 for write data buffers
+[0;32m2020-09-07 17:03:42,785 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:42.785005
+[0;32m2020-09-07 17:03:42,844 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:42.844256
+[0;32m2020-09-07 17:03:42,844 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 20 for read data buffers
+[0;32m2020-09-07 17:03:42,844 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 20 for write data buffers
+[0;32m2020-09-07 17:03:42,845 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:42.845015
+[0;32m2020-09-07 17:03:42,904 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:42.904603
+[0;32m2020-09-07 17:03:42,904 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 21 for read data buffers
+[0;32m2020-09-07 17:03:42,905 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 21 for write data buffers
+[0;32m2020-09-07 17:03:42,905 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:42.905385
+[0;32m2020-09-07 17:03:42,980 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:42.980735
+[0;32m2020-09-07 17:03:42,981 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 22 for read data buffers
+[0;32m2020-09-07 17:03:42,981 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 22 for write data buffers
+[0;32m2020-09-07 17:03:42,981 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:42.981751
+[0;32m2020-09-07 17:03:43,036 [0;36mverifier.py:main@20 [1;33m[INFO] [0;37mStarting Verifier at 2020-09-07 17:03:43.036270
+[0;32m2020-09-07 17:03:43,038 [0;36mverifier.py:main@40 [1;33m[WARNING] [0;37mUsing index 23 for read data buffers
+[0;32m2020-09-07 17:03:43,039 [0;36mverifier.py:main@49 [1;33m[WARNING] [0;37mUsing index 23 for write data buffers
+[0;32m2020-09-07 17:03:43,039 [0;36mverifier.py:main@63 [1;33m[INFO] [0;37mData Series 1 was found in the read tap buffers, starting from line 0 till 16
+[0;32m2020-09-07 17:03:43,039 [0;36mverifier.py:main@67 [1;33m[INFO] [0;37mData Series 3 was found in the write tap buffers, starting from line 0 with till 16
+[0;32m2020-09-07 17:03:43,039 [0;36mverifier.py:main@68 [1;33m[INFO] [0;37mVerifier finished searching 3 lines in buffers at 2020-09-07 17:03:43.039474
+Duration: 10 minute(s) for REPLAY aes128 and ASID 30249000 and Caller 7740a5f0
+Duration: 10 minute(s) for REPLAY aes128 and ASID 30249000

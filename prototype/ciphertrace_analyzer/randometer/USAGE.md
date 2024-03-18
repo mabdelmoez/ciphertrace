@@ -1,0 +1,1 @@
+python randometer/randometer.py --readgram __testdata__/aes128/unigram_mem_read_report.bin --writegram __testdata__/aes128/unigram_mem_write_report.bin --readent '> 0' --writeent '> 0' --readrand '> 10000' --writerand '< 1000' --asid 30249000 --ocallers randometer.out

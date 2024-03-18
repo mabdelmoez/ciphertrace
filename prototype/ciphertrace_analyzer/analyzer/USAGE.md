@@ -1,0 +1,1 @@
+python analyzer/analyzer.py --stats  __testdata__/aes128/func_stats --caller 7740a5f0 --sym __testdata__/aes128/func_db --stack functionstack --conf False --verbose False --outprefix aes128 --aconfig "maxexecs, 3, 1.0"

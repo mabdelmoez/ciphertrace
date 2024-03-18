@@ -1,24 +1,6 @@
 ## Our gitignore ##
 # The prototype archive
 prototype/archive/
-# Extra __testdata__
-prototype/ciphertrace_analyzer/__testdata__/aes128
-prototype/ciphertrace_analyzer/__testdata__/daes128enc
-prototype/ciphertrace_analyzer/__testdata__/opensslaes256
-prototype/ciphertrace_analyzer/__testdata__/serpent128
-prototype/ciphertrace_analyzer/__testdata__/tf256
-# TMP: main __testdata__
-prototype/ciphertrace_analyzer/__testdata__/waes128enc
-# TMP: The prototype
-prototype/ciphertrace_analyzer/analyzer
-prototype/ciphertrace_analyzer/randometer
-prototype/ciphertrace_analyzer/tester
-prototype/ciphertrace_analyzer/verifier
-prototype/ciphertrace_analyzer/visualizer
-prototype/ciphertrace_analyzer/main.cfg
-prototype/ciphertrace_analyzer/main.py
-# TMP: CipherTrace autorun
-prototype/autorun.sh
 # TMP: The thesis folder
 thesis/
 # Execusion result
